@@ -1,0 +1,22 @@
+[
+	{
+		"input": "schmeckt besser weil es sprudelt",
+		"rating": "4"
+	},
+	{
+		"input": "schmeckt besser weil es sprudelt",
+		"rating": "2"
+	},
+	{
+		"input": "schmeckt besser weil es sprudelt",
+		"rating": "4"
+	},
+	{
+		"input": "schmeckt besser weil es sprudelt",
+		"rating": "6"
+	},
+	{
+		"input": "schmeckt besser weil es sprudelt",
+		"rating": "1"
+	}
+]
