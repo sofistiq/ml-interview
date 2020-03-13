@@ -1,0 +1,7050 @@
+[
+  {
+    "input": "schnelle bearbeitung meiner bedürfnisse",
+    "rating": "1"
+  },
+  {
+    "input": "traditionelle werte, z. B. pünktlichkeit jeden tag kommt der bote um 8:30",
+    "rating": "1"
+  },
+  {
+    "input": "Ehrlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "vielfältiges und qualitativ hochwertiges angebot",
+    "rating": "1"
+  },
+  {
+    "input": "zu wenig Wertschätzung gegenüber dem Personal (Personal scheint nicht zufrieden und wird nicht genügend bezahlt)",
+    "rating": "1"
+  },
+  {
+    "input": "kunden und angestellte sind zufrieden mit allem was sie bekommen, da das Preisleistungsverhältnis stimmt",
+    "rating": "1"
+  },
+  {
+    "input": "man wird freundlich begrüsst",
+    "rating": "1"
+  },
+  {
+    "input": "Neutralität",
+    "rating": "1"
+  },
+  {
+    "input": "übersichtliche (personal-) struktur und vernetzung",
+    "rating": "1"
+  },
+  {
+    "input": "defizitär umweltfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "entwickeln sich am Kundenmarkt vorbei",
+    "rating": "1"
+  },
+  {
+    "input": "Qualität bleibt immer gleich",
+    "rating": "1"
+  },
+  {
+    "input": "spürt Bedürfnisse vom Kunde",
+    "rating": "1"
+  },
+  {
+    "input": "billige Kundenbindungsmethode",
+    "rating": "1"
+  },
+  {
+    "input": "entspricht meinen Bedürfnissen",
+    "rating": "1"
+  },
+  {
+    "input": "günstigeres Preis- und Leistungsverhältnisse",
+    "rating": "1"
+  },
+  {
+    "input": "bodenständig",
+    "rating": "1"
+  },
+  {
+    "input": "Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "stabil und sicher",
+    "rating": "1"
+  },
+  {
+    "input": "unruhig, zu fest im Wandel",
+    "rating": "1"
+  },
+  {
+    "input": "lösungsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "man wird vor Tatsachen gestellt",
+    "rating": "1"
+  },
+  {
+    "input": "verlässlich",
+    "rating": "1"
+  },
+  {
+    "input": "schnelllebend",
+    "rating": "1"
+  },
+  {
+    "input": "ehrlich",
+    "rating": "1"
+  },
+  {
+    "input": "zu wenig Kundenorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "träge",
+    "rating": "1"
+  },
+  {
+    "input": "fahrig",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "wetterabhängig",
+    "rating": "1"
+  },
+  {
+    "input": "gute Beratung",
+    "rating": "1"
+  },
+  {
+    "input": "Fehler durch Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "bringt mich ans Ziel",
+    "rating": "1"
+  },
+  {
+    "input": "sorgt für mein Wohlbefinden",
+    "rating": "1"
+  },
+  {
+    "input": "motivierend",
+    "rating": "1"
+  },
+  {
+    "input": "langsam",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mit Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "denken an die Zukunft",
+    "rating": "1"
+  },
+  {
+    "input": "macht mir Freude",
+    "rating": "1"
+  },
+  {
+    "input": "ernste Angelenheit",
+    "rating": "1"
+  },
+  {
+    "input": "gute Beratung",
+    "rating": "1"
+  },
+  {
+    "input": "guter Informationsfluss",
+    "rating": "1"
+  },
+  {
+    "input": "zufriedenstellend",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "zur Zeit zögerlich",
+    "rating": "1"
+  },
+  {
+    "input": "viele Entwicklungsmöglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "gute Kundenzufriedenheit",
+    "rating": "1"
+  },
+  {
+    "input": "schlechter Kundenservice",
+    "rating": "1"
+  },
+  {
+    "input": "gehen auf Wünsche ein",
+    "rating": "1"
+  },
+  {
+    "input": "zu viele Sortimentswechsel",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "Sinnvolle Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "tolle Erlebnisse",
+    "rating": "1"
+  },
+  {
+    "input": "vielseitigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "soziale Verantwortung",
+    "rating": "1"
+  },
+  {
+    "input": "eigenverantwortlich",
+    "rating": "1"
+  },
+  {
+    "input": "guter Service",
+    "rating": "1"
+  },
+  {
+    "input": "zu komplex",
+    "rating": "1"
+  },
+  {
+    "input": "Digital besser aufgestellt",
+    "rating": "1"
+  },
+  {
+    "input": "Rückständig",
+    "rating": "1"
+  },
+  {
+    "input": "zu viele Geschäftsbereiche",
+    "rating": "1"
+  },
+  {
+    "input": "gute Dokumente",
+    "rating": "1"
+  },
+  {
+    "input": "Gestalter der Zukunft",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "Innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "Altbacken",
+    "rating": "1"
+  },
+  {
+    "input": "gute Qualität",
+    "rating": "1"
+  },
+  {
+    "input": "Perfektion",
+    "rating": "1"
+  },
+  {
+    "input": "gehen auf Kunde ein",
+    "rating": "1"
+  },
+  {
+    "input": "Machen Ihr Ding",
+    "rating": "1"
+  },
+  {
+    "input": "Herzlich",
+    "rating": "1"
+  },
+  {
+    "input": "Effizienz",
+    "rating": "1"
+  },
+  {
+    "input": "Modern",
+    "rating": "1"
+  },
+  {
+    "input": "Verstaubt",
+    "rating": "1"
+  },
+  {
+    "input": "Dynamisch",
+    "rating": "1"
+  },
+  {
+    "input": "Träge",
+    "rating": "1"
+  },
+  {
+    "input": "Digitale Kompetenz",
+    "rating": "1"
+  },
+  {
+    "input": "Zäh",
+    "rating": "1"
+  },
+  {
+    "input": "Vielseitig",
+    "rating": "1"
+  },
+  {
+    "input": "Einseitig",
+    "rating": "1"
+  },
+  {
+    "input": "Traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "Modern",
+    "rating": "1"
+  },
+  {
+    "input": "schlechte Arbeitsbedingungen",
+    "rating": "1"
+  },
+  {
+    "input": "vom Staat kontrolliert",
+    "rating": "1"
+  },
+  {
+    "input": "preisgünstig",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "gute Infrastruktur",
+    "rating": "1"
+  },
+  {
+    "input": "erfüllt meine Bedürfnisse",
+    "rating": "1"
+  },
+  {
+    "input": "Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "schränkt mich etwas ein",
+    "rating": "1"
+  },
+  {
+    "input": "gute Vorsorge",
+    "rating": "1"
+  },
+  {
+    "input": "schlechte Arbeitsbedingungen",
+    "rating": "1"
+  },
+  {
+    "input": "zeitsparend",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Zugang zu Informationen",
+    "rating": "1"
+  },
+  {
+    "input": "unbedeutend",
+    "rating": "1"
+  },
+  {
+    "input": "komfortabel",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "hält mich auf dem Laufenden",
+    "rating": "1"
+  },
+  {
+    "input": "profitorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenkontakt am Schalter",
+    "rating": "1"
+  },
+  {
+    "input": "lange Wartezeit am Telefon",
+    "rating": "1"
+  },
+  {
+    "input": "nachhaltig",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenfreundlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Arbeit durch Dienstleister erledigt",
+    "rating": "1"
+  },
+  {
+    "input": "Wünsche werden berücksichtigt",
+    "rating": "1"
+  },
+  {
+    "input": "unabhängig",
+    "rating": "1"
+  },
+  {
+    "input": "vielfälltigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "fördert Mitarbeiter",
+    "rating": "1"
+  },
+  {
+    "input": "mehr Kundenkontakt",
+    "rating": "1"
+  },
+  {
+    "input": "vielfältiges Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "Wünsche werden respektiert",
+    "rating": "1"
+  },
+  {
+    "input": "haben klares Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "informiert mich",
+    "rating": "1"
+  },
+  {
+    "input": "kundenorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "begleitend",
+    "rating": "1"
+  },
+  {
+    "input": "virtuell unterwegs",
+    "rating": "1"
+  },
+  {
+    "input": "neutral",
+    "rating": "1"
+  },
+  {
+    "input": "Verlässlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Teuer",
+    "rating": "1"
+  },
+  {
+    "input": "macht mich zufrieden",
+    "rating": "1"
+  },
+  {
+    "input": "guter Support",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "nettes Personal",
+    "rating": "1"
+  },
+  {
+    "input": "Umweltfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Umweltbelastend",
+    "rating": "1"
+  },
+  {
+    "input": "interessant",
+    "rating": "1"
+  },
+  {
+    "input": "viele Arbeitsmöglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "gibt Kredit",
+    "rating": "1"
+  },
+  {
+    "input": "eingeschränkt",
+    "rating": "1"
+  },
+  {
+    "input": "persönlich",
+    "rating": "1"
+  },
+  {
+    "input": "anonym",
+    "rating": "1"
+  },
+  {
+    "input": "praktisch",
+    "rating": "1"
+  },
+  {
+    "input": "baut ab",
+    "rating": "1"
+  },
+  {
+    "input": "vielfältig",
+    "rating": "1"
+  },
+  {
+    "input": "bietet unbegrenzte Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "näher am Staat und vertrauenswürdig",
+    "rating": "1"
+  },
+  {
+    "input": "weniger leistungs-, mehr profitorientiert (zocken einen ab)",
+    "rating": "1"
+  },
+  {
+    "input": "sind in Kommunikation mit mir als Kunde, macht es fassbar und dadurch vertrauenswürdig",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstanbieter, ist mir weniger nahe und weniger wichtig",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich, verlässlich und sauber",
+    "rating": "1"
+  },
+  {
+    "input": "mehr Rücksicht auf mein Wohlbefinden",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel und frei in Zeit und Raum",
+    "rating": "1"
+  },
+  {
+    "input": "begrenzt und dadurch Gefühl von Unwohlsein",
+    "rating": "1"
+  },
+  {
+    "input": "gutes Gefühl, Zufriedenheit, z.B. wegen Transparenz und persönlichem Bezug",
+    "rating": "1"
+  },
+  {
+    "input": "unsympathisch, weil Grosskonzern mit Hauptsache Profit",
+    "rating": "1"
+  },
+  {
+    "input": "Gefühl von Nähe, dadurch Geborgenheit",
+    "rating": "1"
+  },
+  {
+    "input": "egoistisch, weil ihr Geschäft wichtiger ist als ihre Kunden",
+    "rating": "1"
+  },
+  {
+    "input": "sind reglementiert und sicher",
+    "rating": "1"
+  },
+  {
+    "input": "regellos, braucht mehr Zeit für Orientierung",
+    "rating": "1"
+  },
+  {
+    "input": "persönlicher Bezug, weil ich selber Einfluss darauf habe",
+    "rating": "1"
+  },
+  {
+    "input": "machtlos, muss mich den Regeln anpassen",
+    "rating": "1"
+  },
+  {
+    "input": "haben klarere Form, kann es dadurch besser einschätzen",
+    "rating": "1"
+  },
+  {
+    "input": "misstrauisch, weil vieles international und ungeregelt",
+    "rating": "1"
+  },
+  {
+    "input": "Verlässlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Auf Profit aus",
+    "rating": "1"
+  },
+  {
+    "input": "Fassbar",
+    "rating": "1"
+  },
+  {
+    "input": "Freundlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Vollkommen",
+    "rating": "1"
+  },
+  {
+    "input": "Beständig",
+    "rating": "1"
+  },
+  {
+    "input": "Bietet viele Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "Traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "Erreichbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Unsicher",
+    "rating": "1"
+  },
+  {
+    "input": "Unendlich",
+    "rating": "1"
+  },
+  {
+    "input": "Kommerziell",
+    "rating": "1"
+  },
+  {
+    "input": "Vielseitig",
+    "rating": "1"
+  },
+  {
+    "input": "Erreichbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Erleichtert das Leben",
+    "rating": "1"
+  },
+  {
+    "input": "weniger Kundennah da profitorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Begründeter preislicher Rahmen",
+    "rating": "1"
+  },
+  {
+    "input": "Geht auf meine Wünsche ein",
+    "rating": "1"
+  },
+  {
+    "input": "Angebot auf meine Bedürfnisse eingestellt",
+    "rating": "1"
+  },
+  {
+    "input": "Mitarbeiter nicht immer freundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Ist zuvorkommend",
+    "rating": "1"
+  },
+  {
+    "input": "Gibt mir ein Heimatsgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "Gib mir das Gefühl von Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Bietet familiäres Umfeld",
+    "rating": "1"
+  },
+  {
+    "input": "Grossbetrieb schlechteres Klima und gewinnorientierte",
+    "rating": "1"
+  },
+  {
+    "input": "Geben Unabhängigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Macht mich glücklich",
+    "rating": "1"
+  },
+  {
+    "input": "Jederzeit mobil, macht Leben einfacher",
+    "rating": "1"
+  },
+  {
+    "input": "Teureres Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "Mit der Zeit gehend",
+    "rating": "1"
+  },
+  {
+    "input": "Altmodisch",
+    "rating": "1"
+  },
+  {
+    "input": "Weniger abwechslungsreiches Aufgabengebiet",
+    "rating": "1"
+  },
+  {
+    "input": "Neutral, lässt mir alle Wege offen",
+    "rating": "1"
+  },
+  {
+    "input": "kommunizieren klar und strukturiert",
+    "rating": "1"
+  },
+  {
+    "input": "altmodisch, noch nicht digital",
+    "rating": "1"
+  },
+  {
+    "input": "schnell lieferunfähig",
+    "rating": "1"
+  },
+  {
+    "input": "Nicht ökologisch",
+    "rating": "1"
+  },
+  {
+    "input": "fühle mich Verbunden durch digitales W-LAN Services",
+    "rating": "1"
+  },
+  {
+    "input": "bieten kein WiFI für Kunden, so dass ich mich nicht verbunden fühle",
+    "rating": "1"
+  },
+  {
+    "input": "geben mir das Gefühl von Ungebundheit, Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "fühle mich an bestimmten Zeitplan gebunden",
+    "rating": "1"
+  },
+  {
+    "input": "kosteneffiziente Entscheidungen zu treffen, und das gibt mir ein Gefühl von Unternehmergeist",
+    "rating": "1"
+  },
+  {
+    "input": "in einem großen Unternehmen dauern Entscheidungen länger, dadurch habe ich das Gefühl dass ich mich nicht weiter entwickel",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir das Gefühl, meine Zeit vernünftig zu nutzen",
+    "rating": "1"
+  },
+  {
+    "input": "Gebühren zu erhöhen, gibt mir das Gefühl, mein Geld nicht sinnvoll auszugeben",
+    "rating": "1"
+  },
+  {
+    "input": "die meisten bieten das Freemium-Programm / die Light-Version nicht umsonst an, das gibt mir das Gefühl, dass sie mich ausnutzen",
+    "rating": "1"
+  },
+  {
+    "input": "ich mag kostenlose Programmversionen weil ich sie testen kann",
+    "rating": "1"
+  },
+  {
+    "input": "hinsichlich der Digitalisierung, habe ich das Gefühl ständig auf dem neuesten Stand zu sein",
+    "rating": "1"
+  },
+  {
+    "input": "langsame Bearbeitungswege, weil große Firma",
+    "rating": "1"
+  },
+  {
+    "input": "wenn man Skype geschäftlich nutzt, ist das Unternehmen fortschrittlich",
+    "rating": "1"
+  },
+  {
+    "input": "Das Fehlen von Kartenzahlungen an vielen Orten gibt mir das Gefühl, dass sie nicht die gesamte digitale Kapazität nutzen, die wir haben.",
+    "rating": "1"
+  },
+  {
+    "input": "Sind näher an der Bevölkerung",
+    "rating": "1"
+  },
+  {
+    "input": "ist profitorientiert und macht agressive Werbung",
+    "rating": "1"
+  },
+  {
+    "input": "Geht auf Kundenbedürfnisse optimal ein",
+    "rating": "1"
+  },
+  {
+    "input": "weniger Individualität da Franchising Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "jederzeit flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "muss mich an sie richten da vorgegebene Zeiten",
+    "rating": "1"
+  },
+  {
+    "input": "Da für die Bevölkerung",
+    "rating": "1"
+  },
+  {
+    "input": "freie Zeiteinteilung",
+    "rating": "1"
+  },
+  {
+    "input": "ermöglicht gute Work-Life Balance und home office",
+    "rating": "1"
+  },
+  {
+    "input": "starre Organisation wenig Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "Jederzeit von überall erreichbar",
+    "rating": "1"
+  },
+  {
+    "input": "bietet mir Erholung",
+    "rating": "1"
+  },
+  {
+    "input": "Innovativ und fortschrittlich",
+    "rating": "1"
+  },
+  {
+    "input": "eher reguliert und staatsnah somit träg für mich",
+    "rating": "1"
+  },
+  {
+    "input": "offen für neues",
+    "rating": "1"
+  },
+  {
+    "input": "alter Bekannter mit wenig Veränderung",
+    "rating": "1"
+  },
+  {
+    "input": "stabil und sicher",
+    "rating": "1"
+  },
+  {
+    "input": "schnell und unvorsehbar",
+    "rating": "1"
+  },
+  {
+    "input": "haben gute Apps",
+    "rating": "1"
+  },
+  {
+    "input": "hat viele Störungen",
+    "rating": "1"
+  },
+  {
+    "input": "gute Preise",
+    "rating": "1"
+  },
+  {
+    "input": "schöne Emotionen",
+    "rating": "1"
+  },
+  {
+    "input": "bringt Freunde zusammen",
+    "rating": "1"
+  },
+  {
+    "input": "machen ihr Ding",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir Heimatgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "machen Abstand zu mir",
+    "rating": "1"
+  },
+  {
+    "input": "loyal",
+    "rating": "1"
+  },
+  {
+    "input": "hektisch",
+    "rating": "1"
+  },
+  {
+    "input": "guter Service macht mich zufrieden",
+    "rating": "1"
+  },
+  {
+    "input": "anonym",
+    "rating": "1"
+  },
+  {
+    "input": "sehr hilfsbereit",
+    "rating": "1"
+  },
+  {
+    "input": "unsympathischer Kundenservice",
+    "rating": "1"
+  },
+  {
+    "input": "macht dass ich mich fröhlich fühle",
+    "rating": "1"
+  },
+  {
+    "input": "unpersönlich",
+    "rating": "1"
+  },
+  {
+    "input": "bringt mir Freude",
+    "rating": "1"
+  },
+  {
+    "input": "schnippisch",
+    "rating": "1"
+  },
+  {
+    "input": "antworten schnell",
+    "rating": "1"
+  },
+  {
+    "input": "mühsam und langsam",
+    "rating": "1"
+  },
+  {
+    "input": "super qualität Produkte und service",
+    "rating": "1"
+  },
+  {
+    "input": "ist in allem ideal für mich",
+    "rating": "1"
+  },
+  {
+    "input": "nur gute erfahrung damit gemacht",
+    "rating": "1"
+  },
+  {
+    "input": "neutral, weder gut noch schlecht",
+    "rating": "1"
+  },
+  {
+    "input": "nett und fröhlich",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "offen und ehrlich",
+    "rating": "1"
+  },
+  {
+    "input": "zeitdruck und stress",
+    "rating": "1"
+  },
+  {
+    "input": "frei , ohne stress",
+    "rating": "1"
+  },
+  {
+    "input": "bleibt nicht bei ihrer haupttätigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "fortschrittlich und innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "weniger sympathisch, da grosskonzern",
+    "rating": "1"
+  },
+  {
+    "input": "fühle mich überwacht",
+    "rating": "1"
+  },
+  {
+    "input": "teilnahmlos am heutigen Geschehen",
+    "rating": "1"
+  },
+  {
+    "input": "ländlich und traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "zu grosses Unternehmen übt Macht aus",
+    "rating": "1"
+  },
+  {
+    "input": "Kundennähe, persönliche Ansprache",
+    "rating": "1"
+  },
+  {
+    "input": "überwiegend Shops unter \"fremder\" Führung, Callcenter",
+    "rating": "1"
+  },
+  {
+    "input": "Kundennähe, Freundlichkeit, persönlich",
+    "rating": "1"
+  },
+  {
+    "input": "Möchte \"ideal\" für alle sein, evtl. Gefahr das nicht persönlich, \"nicht echt\"",
+    "rating": "1"
+  },
+  {
+    "input": "kundennah",
+    "rating": "1"
+  },
+  {
+    "input": "authentisch",
+    "rating": "1"
+  },
+  {
+    "input": "verbindet die Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "unabhängig, frei",
+    "rating": "1"
+  },
+  {
+    "input": "ehrlich, offen,",
+    "rating": "1"
+  },
+  {
+    "input": "grosser Konzern, Kontrolle von \"oben\"",
+    "rating": "1"
+  },
+  {
+    "input": "hat den Wunsch es allen Recht zu machen",
+    "rating": "1"
+  },
+  {
+    "input": "Kontrolle, geht nicht auf einzelne Bedürfnisse ein",
+    "rating": "1"
+  },
+  {
+    "input": "ich vertraue ihnen Geld an",
+    "rating": "1"
+  },
+  {
+    "input": "nicht zu \"fassen\", keine Kontrolle",
+    "rating": "1"
+  },
+  {
+    "input": "ist für die Menschen da",
+    "rating": "1"
+  },
+  {
+    "input": "Abhängigkeit, engt mich ein",
+    "rating": "1"
+  },
+  {
+    "input": "digital, wenn ohne Funktion nicht erreichbar, mühsam, hilflos",
+    "rating": "1"
+  },
+  {
+    "input": "Kontrolliert, viele Resourcen, verlässlich",
+    "rating": "1"
+  },
+  {
+    "input": "kundenfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Fehlkommunikation und zuwenig Transparenz (schicken Pakete vor Frist zurück)",
+    "rating": "1"
+  },
+  {
+    "input": "hilfsbereit und erbringt Zusatzleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "man muss alles selber erledigen, Billigladen",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich und zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "nerven mich, da Ausfall und Verspätungen",
+    "rating": "1"
+  },
+  {
+    "input": "offen und freundlich",
+    "rating": "1"
+  },
+  {
+    "input": "leben in eigener Welt, kümmern sich zu wenig um Mitwelt",
+    "rating": "1"
+  },
+  {
+    "input": "kooperativ und kompromissbereit",
+    "rating": "1"
+  },
+  {
+    "input": "zeitdruck bei Arbeit, schreckt mich ab",
+    "rating": "1"
+  },
+  {
+    "input": "hilfsbereit und kommunikativ",
+    "rating": "1"
+  },
+  {
+    "input": "genervt da online Dienstleistung nicht funktioniert",
+    "rating": "1"
+  },
+  {
+    "input": "im Wandel, halten mit der Zeit mit und sind innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "probieren Verbesserungen zu machen, die aber meistens misslingen",
+    "rating": "1"
+  },
+  {
+    "input": "fröhlich und offen gegenüber Neuem",
+    "rating": "1"
+  },
+  {
+    "input": "Kürzen Dienstleistungen (durch Schliessen der Filialen)",
+    "rating": "1"
+  },
+  {
+    "input": "fortschrittlich und zukunftsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "schlechte Löhne",
+    "rating": "1"
+  },
+  {
+    "input": "unzuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "unsaubere Finanzen",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenkontakt, menschliche Kommunikation, gibt gutes Gefühl, wird ernst genommen",
+    "rating": "1"
+  },
+  {
+    "input": "fachgerechte Beratung, komme wieder, Kundenbindung",
+    "rating": "1"
+  },
+  {
+    "input": "mehr selber bestimmen, flexibler reisen, Gefühl von Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "billiger und umweltfreundlicher, wichtige Faktoren",
+    "rating": "1"
+  },
+  {
+    "input": "Wahlfreiheit, kann mich frei bewegen, bin unabhängig",
+    "rating": "1"
+  },
+  {
+    "input": "bin angewiesen und abhängig,  Gefühl von Unflexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "Entscheidungsfreiheit, grosse Flexibilität, motiviert mich zum arbeiten",
+    "rating": "1"
+  },
+  {
+    "input": "fixe Arbeitszeiten, einbusse meiner persönlicher Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "realer Bezug, bin auf PostFinance angewiesen, akzeptiere Bedingungen",
+    "rating": "1"
+  },
+  {
+    "input": "individueller, Bedürfnisse des Einzelnen erfüllend",
+    "rating": "1"
+  },
+  {
+    "input": "helfen einen rund um die Uhr",
+    "rating": "1"
+  },
+  {
+    "input": "vage Informationen, störungsanfällig, gibt ein schlechtes Bild",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenumgang, freundlich, dienend, zuvorkommend, hilfsbereit, umsorgend",
+    "rating": "1"
+  },
+  {
+    "input": "Produktangebot, unpersönlich",
+    "rating": "1"
+  },
+  {
+    "input": "fahren viele Stationen an, gute Standards, gibt Sicherheitsgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "anonym, fühle mich weniger aufgehoben und ernst genommen",
+    "rating": "1"
+  },
+  {
+    "input": "sicher und sauber, gibt gutes Gefühl",
+    "rating": "1"
+  },
+  {
+    "input": "finanziell nicht ganz sauber, gibt schlechteres Image",
+    "rating": "1"
+  },
+  {
+    "input": "Freiheit in Arbeitsausführung, finanzielle Sicherheit, sozial",
+    "rating": "1"
+  },
+  {
+    "input": "Arbeitsplatzsicherheit gefährdet",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenbedürfnisse werden erkannt",
+    "rating": "1"
+  },
+  {
+    "input": "Preis-Leistungsverhältnis stimmt nicht, fühle mich ausgenommen",
+    "rating": "1"
+  },
+  {
+    "input": "sicher geregelt, gibt gutes Gefühl",
+    "rating": "1"
+  },
+  {
+    "input": "etwas unfassbar, anonym, gibt unsicheres Gefühl",
+    "rating": "1"
+  },
+  {
+    "input": "sehr flexibel und umfangreich, gibt Freiheitsgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "starr, eingeschränkte Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Pünktlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Verlässlich",
+    "rating": "1"
+  },
+  {
+    "input": "Design, Präsentation schlüssig",
+    "rating": "1"
+  },
+  {
+    "input": "sehr persönliche Einkaufsberatung",
+    "rating": "1"
+  },
+  {
+    "input": "Anschluss zu abgelegenen Gebieten, verlässlich und Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "grössere Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "Verlässlichkeit, Pünklichkeit, Sauberkeit",
+    "rating": "1"
+  },
+  {
+    "input": "in jeder Situation verfügbar und lösungsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "offene Gestaltungsmöglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "vorgegebene Strukturen",
+    "rating": "1"
+  },
+  {
+    "input": "persönliche Beratung",
+    "rating": "1"
+  },
+  {
+    "input": "kein massgeschneidertes, persönliches Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "traditionell, real fassbar, nicht fiktiv",
+    "rating": "1"
+  },
+  {
+    "input": "verführend, ungewiss",
+    "rating": "1"
+  },
+  {
+    "input": "menschlich",
+    "rating": "1"
+  },
+  {
+    "input": "Algorhythmus dahinter, maschinenähnlich",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit, z.B. Stellensicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "freier, weniger Gesetze",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ (verhalten sich wie in der Privatwirtschaft, als Staatsbetriebe)",
+    "rating": "1"
+  },
+  {
+    "input": "bewahrend, konservativ",
+    "rating": "1"
+  },
+  {
+    "input": "breites Angebot, gute Auswahl, finde das, was mir am Herzen liegt",
+    "rating": "1"
+  },
+  {
+    "input": "Geselligkeit, Zusammensein, Gesellschaft",
+    "rating": "1"
+  },
+  {
+    "input": "kundenorientiert, guter Service, machen es einem als Kunde einfach",
+    "rating": "1"
+  },
+  {
+    "input": "Individualität fehlt, starres Angebot, immer gleich",
+    "rating": "1"
+  },
+  {
+    "input": "konservativ und zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "erfinderisch und relaxed",
+    "rating": "1"
+  },
+  {
+    "input": "mutig, etwas Neues zu wagen, alte Muster zu durchbrechen",
+    "rating": "1"
+  },
+  {
+    "input": "grosser Leistungsdruck, das wirkt demotivierend",
+    "rating": "1"
+  },
+  {
+    "input": "massgeschneidertes Angebot, kann auswählen, fühlt sich dadurch ernst genommen und willkommen",
+    "rating": "1"
+  },
+  {
+    "input": "äusserst flexibel und frei, und doch zielorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "beschränktes Angebot, fühle mich als Kunde",
+    "rating": "1"
+  },
+  {
+    "input": "anonym, manchmal überfordert vom gigantischen, unübersichtlichen Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "beschränkte Auswahl, man weiss, was man bekommt, das gibt Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "innere Prozesse sind manchmal unklar, dadurch ist unsicher, was rauskommt",
+    "rating": "1"
+  },
+  {
+    "input": "langsame und nachhaltige Entwicklung, gibt Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "macht manchmal Angst, weil nicht durchschaubar, schnelllebig",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenfreundlich, schnelle Bearbeitung eines Problems",
+    "rating": "1"
+  },
+  {
+    "input": "weniger kulant (sie können oder wollen die Kunden nicht immer zufrieden stellen) zum teil auch unfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "kundenfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "viel grösseres Sortiment und alles in einem Haus, wie ein Grosses Einkaufzentrum, macht den Einkauf effizient",
+    "rating": "1"
+  },
+  {
+    "input": "bei beiden bis jetzt keine Probleme gehabt und waren alle Fahrer angenehm",
+    "rating": "1"
+  },
+  {
+    "input": "Voraussagbar, noch genauere lieferzeiten, wenn es eine Unterschrift braucht, dass man zu Hause ist",
+    "rating": "1"
+  },
+  {
+    "input": "Freiheit, Freudiges gefühl, das man nicht zuhause sitzt, erkunden der Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "Man ist an zeiten und Orten gebunden",
+    "rating": "1"
+  },
+  {
+    "input": "flexible Arbeitszeiten, kurzer Arbeitsweg",
+    "rating": "1"
+  },
+  {
+    "input": "enge Vorgaben und Vorschriften, an zeiten gebunden",
+    "rating": "1"
+  },
+  {
+    "input": "eigene Produkte, Spezialitäten, dadurch weiss man, woher es ist und hat Ansprechpartner",
+    "rating": "1"
+  },
+  {
+    "input": "Freiheit, ungebunden",
+    "rating": "1"
+  },
+  {
+    "input": "physisch erreichbar, gibt mir Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "unerreichbar, Gefühl von Eingeschränkung",
+    "rating": "1"
+  },
+  {
+    "input": "immer lösungsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Veränderung schadenslos, Bsp: hingegen bei Konzern Post müssen andere die Suppe auslöffeln bei Veränderung",
+    "rating": "1"
+  },
+  {
+    "input": "lokal, Post gibt es in der ganzen Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "ungebunden,weltweit",
+    "rating": "1"
+  },
+  {
+    "input": "flächendeckendes Angebot (deshalb führend in ihrer Branche)",
+    "rating": "1"
+  },
+  {
+    "input": "teuer (führt dazu, dass sie mehr Konkurrenz haben)",
+    "rating": "1"
+  },
+  {
+    "input": "gutes Preis-Leistungsverhältnis, zugleich Billigvarianten vorhanden",
+    "rating": "1"
+  },
+  {
+    "input": "geringe Flexibilität, lange Wartezeiten (wegen knappen Ressourcen)",
+    "rating": "1"
+  },
+  {
+    "input": "sicherer Transport zu fairem Preis, gibt Gefühl der Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "hohe Flexibilität, gibt Gefühl der Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit, Zuverlässigkeit, Pünktlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "vielfältig, breit aufgestellt",
+    "rating": "1"
+  },
+  {
+    "input": "gute Sozialleistungen und fairer Lohn",
+    "rating": "1"
+  },
+  {
+    "input": "Innovation und Selbstverwirklichung",
+    "rating": "1"
+  },
+  {
+    "input": "einfache Handhabung, zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "grosse Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "physisch vorhanden, persönlich",
+    "rating": "1"
+  },
+  {
+    "input": "automatisiert, nicht beeinflussbar, gibt Gefühl von ausgeliefert sein",
+    "rating": "1"
+  },
+  {
+    "input": "digital, weil effizient und einfach",
+    "rating": "1"
+  },
+  {
+    "input": "aufwändiger Ablauf, komplizierter",
+    "rating": "1"
+  },
+  {
+    "input": "modern und effizient",
+    "rating": "1"
+  },
+  {
+    "input": "persönlicher, langsamer",
+    "rating": "1"
+  },
+  {
+    "input": "gute Kommunikation, freundliche Dienstleister, geben sich Mühe",
+    "rating": "1"
+  },
+  {
+    "input": "wenig Kundennähe",
+    "rating": "1"
+  },
+  {
+    "input": "täglicher Kundenkontakt, bemühen sich, allen Wünschen rundum zu entsprechen, immer freundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Freude an dem, was man macht, und das leben",
+    "rating": "1"
+  },
+  {
+    "input": "kompetent, freundlich, zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "erschwingliche Preise",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig, kommt überall hin, gut organisiert (wichtiges Schweizer Image)",
+    "rating": "1"
+  },
+  {
+    "input": "spontan",
+    "rating": "1"
+  },
+  {
+    "input": "respektieren Leute als Arbeitskräfte",
+    "rating": "1"
+  },
+  {
+    "input": "geringere Effizienz",
+    "rating": "1"
+  },
+  {
+    "input": "bemühen sich um kundenfreudliche Plattform",
+    "rating": "1"
+  },
+  {
+    "input": "Bescheidenheit",
+    "rating": "1"
+  },
+  {
+    "input": "persönlicher Kontakt zu Leuten",
+    "rating": "1"
+  },
+  {
+    "input": "unpersönlich, anonym",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässige und kompetente, rasche Dienstleistungserbringung für Kunden",
+    "rating": "1"
+  },
+  {
+    "input": "mehr Spielraum",
+    "rating": "1"
+  },
+  {
+    "input": "Vergrösserung des digitalen Bereichs, mit soziale Konsequenzen, verliert Sozialkompetenz",
+    "rating": "1"
+  },
+  {
+    "input": "menschlich, mit Herz unterwegs, haben Unterscheidungsvermögen und menschliche Qualitäten",
+    "rating": "1"
+  },
+  {
+    "input": "online-Auftritt, sehr innovativ, unkompliziert zum bedienen",
+    "rating": "1"
+  },
+  {
+    "input": "mühsam, sowohl online als auch beim Kontakt, negative Erinnerungen",
+    "rating": "1"
+  },
+  {
+    "input": "freundlicher Kundenkontakt",
+    "rating": "1"
+  },
+  {
+    "input": "sofort persönliche Bedienung",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig und schnell",
+    "rating": "1"
+  },
+  {
+    "input": "angenehmes Umfeld",
+    "rating": "1"
+  },
+  {
+    "input": "eher stressig und unangenehm, Gefühl von eingesperrt sein",
+    "rating": "1"
+  },
+  {
+    "input": "offen, Gefühl von Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche Vorstellungen, z.B. papierloses Arbeiten",
+    "rating": "1"
+  },
+  {
+    "input": "grosser Betrieb, verlangsamt Prozesse, Gefühl etwas zu bewirken ist kleiner",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "spontan",
+    "rating": "1"
+  },
+  {
+    "input": "vertrauenswürdig",
+    "rating": "1"
+  },
+  {
+    "input": "Wildwuchs, fehlende Standards, gibt Gefühl von Unsicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "offen für Innovationen",
+    "rating": "1"
+  },
+  {
+    "input": "nicht nutzerfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "viel Eigenständigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "klare Strukturen",
+    "rating": "1"
+  },
+  {
+    "input": "mehr öffentliche Institutionen, Dienstleistung für alle überall",
+    "rating": "1"
+  },
+  {
+    "input": "Privatwirtschaft, gewinnorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "spezifisch, fachkompetent und präsent",
+    "rating": "1"
+  },
+  {
+    "input": "breites Angebot, ein Ansprechpartner für alles, macht es unkompliziert als Kunde",
+    "rating": "1"
+  },
+  {
+    "input": "konkurrenzlos, staatlich subventioniert",
+    "rating": "1"
+  },
+  {
+    "input": "äussert flexibles Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "Traditionell, Qualität, Zuverlässigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "spontan, Gefühl von vieles ist möglich, ist abwechslungsreich",
+    "rating": "1"
+  },
+  {
+    "input": "professionell, innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "vielschichtig, deckt viele Bereiche ab",
+    "rating": "1"
+  },
+  {
+    "input": "spontan und flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "kompliziert und schwerfällig, wirkt nicht sehr attraktiv",
+    "rating": "1"
+  },
+  {
+    "input": "geregelt, strukturiert, etwas starr. Gibt Gefühl von Klarheit, Sicherheit, auch Einengung",
+    "rating": "1"
+  },
+  {
+    "input": "unstrukturiert, ungeregelt. Gibt Gefühl von Unsicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "grosse Unternehmen mit verschiedenen Dienstleistungen, erwartet deshalb hohe Qualität",
+    "rating": "1"
+  },
+  {
+    "input": "freier, weil weniger Anforderungen",
+    "rating": "1"
+  },
+  {
+    "input": "lange Tradition, Zuverlässigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "unberechenbar",
+    "rating": "1"
+  },
+  {
+    "input": "Staatsunternehmen ",
+    "rating": "1"
+  },
+  {
+    "input": "Bankaspekt",
+    "rating": "1"
+  },
+  {
+    "input": "Anerkennung der Bedeutung des menschlichen Kontakts",
+    "rating": "1"
+  },
+  {
+    "input": "Selbstbedienungskassen",
+    "rating": "1"
+  },
+  {
+    "input": "Transparenz",
+    "rating": "1"
+  },
+  {
+    "input": "Unterschlagung",
+    "rating": "1"
+  },
+  {
+    "input": "Mehrsprachig",
+    "rating": "1"
+  },
+  {
+    "input": "Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Hierarchische Nähe",
+    "rating": "1"
+  },
+  {
+    "input": "Hierarchische Distanz",
+    "rating": "1"
+  },
+  {
+    "input": "Kostenlose Benutzung der Verkhersmittel",
+    "rating": "1"
+  },
+  {
+    "input": "Finanz",
+    "rating": "1"
+  },
+  {
+    "input": "E-Banking",
+    "rating": "1"
+  },
+  {
+    "input": "Kooperative, Genossenschaft",
+    "rating": "1"
+  },
+  {
+    "input": "Gleiches Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Kunde",
+    "rating": "1"
+  },
+  {
+    "input": "Digitale Verwaltung",
+    "rating": "1"
+  },
+  {
+    "input": "Papier",
+    "rating": "1"
+  },
+  {
+    "input": "Staatlicher Dienst",
+    "rating": "1"
+  },
+  {
+    "input": "Mehr Prestige",
+    "rating": "1"
+  },
+  {
+    "input": "Ständige Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Selten",
+    "rating": "1"
+  },
+  {
+    "input": "Gleiche Leistung",
+    "rating": "1"
+  },
+  {
+    "input": "Kundennähe, Kundenorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Zuverlässligkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Nicht immer pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "Veränderung",
+    "rating": "1"
+  },
+  {
+    "input": "Stabilität",
+    "rating": "1"
+  },
+  {
+    "input": "Sicher",
+    "rating": "1"
+  },
+  {
+    "input": "realitätsfremd",
+    "rating": "1"
+  },
+  {
+    "input": "Menschlicher Kontakt",
+    "rating": "1"
+  },
+  {
+    "input": "Abstrakt",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentliche Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Menschlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Virtuell",
+    "rating": "1"
+  },
+  {
+    "input": " Personentransport und Gütertransport",
+    "rating": "1"
+  },
+  {
+    "input": "Telefongesellschaft",
+    "rating": "1"
+  },
+  {
+    "input": "Kunde  steht im Mittelpunkt des Interesses",
+    "rating": "1"
+  },
+  {
+    "input": "Quantität zulasten der Qualität",
+    "rating": "1"
+  },
+  {
+    "input": "Gleiches Dienstleistungsangebote",
+    "rating": "1"
+  },
+  {
+    "input": "Kundennähe, Kundenorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Bewegung",
+    "rating": "1"
+  },
+  {
+    "input": "Finanz",
+    "rating": "1"
+  },
+  {
+    "input": "Stabilität",
+    "rating": "1"
+  },
+  {
+    "input": "Identität",
+    "rating": "1"
+  },
+  {
+    "input": "Servicequalität, Dienstleistungsqualität",
+    "rating": "1"
+  },
+  {
+    "input": "Leistungsempfänger",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "allgegenwärtig",
+    "rating": "1"
+  },
+  {
+    "input": "Zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "ungewisse Zukunft",
+    "rating": "1"
+  },
+  {
+    "input": "Stabilität",
+    "rating": "1"
+  },
+  {
+    "input": "Anpassungsfähig",
+    "rating": "1"
+  },
+  {
+    "input": "Transportmittel",
+    "rating": "1"
+  },
+  {
+    "input": "die Digitalität",
+    "rating": "1"
+  },
+  {
+    "input": " Kundeninformation",
+    "rating": "1"
+  },
+  {
+    "input": "Zufriedenheit",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentliche Verkehrsmittel",
+    "rating": "1"
+  },
+  {
+    "input": "Andere Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Nutzung des Transportmittels",
+    "rating": "1"
+  },
+  {
+    "input": "Land",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Kein direkter Zusammenhang",
+    "rating": "1"
+  },
+  {
+    "input": "Anpassung an die globalen Veränderungen",
+    "rating": "1"
+  },
+  {
+    "input": "Wenig Interesse an wirtschaftlichen Veränderungen",
+    "rating": "1"
+  },
+  {
+    "input": "Bank",
+    "rating": "1"
+  },
+  {
+    "input": "Breiteres Spektrum",
+    "rating": "1"
+  },
+  {
+    "input": "Kommunikationsplattform",
+    "rating": "1"
+  },
+  {
+    "input": "am wenigsten digital",
+    "rating": "1"
+  },
+  {
+    "input": "die Digitalität",
+    "rating": "1"
+  },
+  {
+    "input": "Land",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Mittelmäßiges Preis-Leistungs-Verhältnis",
+    "rating": "1"
+  },
+  {
+    "input": "Professionalität",
+    "rating": "1"
+  },
+  {
+    "input": "nicht umweltbewusst",
+    "rating": "1"
+  },
+  {
+    "input": "Transporte",
+    "rating": "1"
+  },
+  {
+    "input": "Pünktlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Neutralität",
+    "rating": "1"
+  },
+  {
+    "input": "nicht flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "versönlich",
+    "rating": "1"
+  },
+  {
+    "input": "niedriges Gehalt",
+    "rating": "1"
+  },
+  {
+    "input": "Wirksamkeit, Effitienz",
+    "rating": "1"
+  },
+  {
+    "input": "kompliziert",
+    "rating": "1"
+  },
+  {
+    "input": "Leistung",
+    "rating": "1"
+  },
+  {
+    "input": "nicht international",
+    "rating": "1"
+  },
+  {
+    "input": "Zusammenarbeit",
+    "rating": "1"
+  },
+  {
+    "input": "Personne physique: natürliche Person",
+    "rating": "1"
+  },
+  {
+    "input": "organisiert",
+    "rating": "1"
+  },
+  {
+    "input": "Spitzentechnologien",
+    "rating": "1"
+  },
+  {
+    "input": "weniger gewinnorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinnorientierung, Fokus auf Gewinn",
+    "rating": "1"
+  },
+  {
+    "input": "einfach zu bedienen und preiswert",
+    "rating": "1"
+  },
+  {
+    "input": "bestehendes Produkt",
+    "rating": "1"
+  },
+  {
+    "input": "unbekannt",
+    "rating": "1"
+  },
+  {
+    "input": "potentieller Kunde",
+    "rating": "1"
+  },
+  {
+    "input": "eilig",
+    "rating": "1"
+  },
+  {
+    "input": "Bergreise",
+    "rating": "1"
+  },
+  {
+    "input": "sympathisch und interessant ",
+    "rating": "1"
+  },
+  {
+    "input": "wenige Sichtbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "schnell",
+    "rating": "1"
+  },
+  {
+    "input": "kostenpflichtig",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Neugier",
+    "rating": "1"
+  },
+  {
+    "input": "klassisch",
+    "rating": "1"
+  },
+  {
+    "input": "langweilig ",
+    "rating": "1"
+  },
+  {
+    "input": "kontinuierliche Erreichbarkeit / Zugänglichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Gesamtservice, Rundum-Service",
+    "rating": "1"
+  },
+  {
+    "input": "Reisen um den Service/Dienst nutzen zu können",
+    "rating": "1"
+  },
+  {
+    "input": "angemessene Vorschläge",
+    "rating": "1"
+  },
+  {
+    "input": "subjektiv",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche angebotene Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "subjektiv",
+    "rating": "1"
+  },
+  {
+    "input": "Fahrtziel",
+    "rating": "1"
+  },
+  {
+    "input": "Unsicherheit/Ungewissheit  über die Bewegungsrichtung/Fahrtrichtung",
+    "rating": "1"
+  },
+  {
+    "input": "direkte Verbindung, direkter Zusammenhang/Link",
+    "rating": "1"
+  },
+  {
+    "input": "indirekte Verbindung, indirekter Zusammenhang/Link",
+    "rating": "1"
+  },
+  {
+    "input": "vollständige Kenntnis der Ziele und Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "irreal, unwirklich",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche angebotene Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Unstrukturiert",
+    "rating": "1"
+  },
+  {
+    "input": "Identitätsbewusstsein",
+    "rating": "1"
+  },
+  {
+    "input": "Gemenge /Sammelsurium",
+    "rating": "1"
+  },
+  {
+    "input": "Arbeiten nach Schweizer Normen/Standards",
+    "rating": "1"
+  },
+  {
+    "input": "keine Norm",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche Qualität des Kundendienstes/ Kundenservices",
+    "rating": "1"
+  },
+  {
+    "input": "die Qualität der Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Angebotsvielfalt",
+    "rating": "1"
+  },
+  {
+    "input": "einzelne Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Tätigkeitsbereich",
+    "rating": "1"
+  },
+  {
+    "input": "neues Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "verwendetes Transportmittel",
+    "rating": "1"
+  },
+  {
+    "input": "Zustand (falls es um Menschen geht), Staat",
+    "rating": "1"
+  },
+  {
+    "input": "gleicher Geisteszustand, gleichgesinnt",
+    "rating": "1"
+  },
+  {
+    "input": "Servicequalität",
+    "rating": "1"
+  },
+  {
+    "input": "Kreditkarte",
+    "rating": "1"
+  },
+  {
+    "input": "Multi-Services ",
+    "rating": "1"
+  },
+  {
+    "input": "Dienste und Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Technologie",
+    "rating": "1"
+  },
+  {
+    "input": "Nutzung ihrer Dienste",
+    "rating": "1"
+  },
+  {
+    "input": "Digitalisierung",
+    "rating": "1"
+  },
+  {
+    "input": "Kommunikation",
+    "rating": "1"
+  },
+  {
+    "input": "Staat",
+    "rating": "1"
+  },
+  {
+    "input": "Pünktlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "nicht Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Inflexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "Verschiebung",
+    "rating": "1"
+  },
+  {
+    "input": "Bequemlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Vertretung",
+    "rating": "1"
+  },
+  {
+    "input": "Weitläufigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Verantwortung",
+    "rating": "1"
+  },
+  {
+    "input": "Sorglosigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "bedingungslos",
+    "rating": "1"
+  },
+  {
+    "input": "angebotene Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt",
+    "rating": "1"
+  },
+  {
+    "input": "Nützlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Körperlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Beschränktheit ",
+    "rating": "1"
+  },
+  {
+    "input": "frecher Kundendienst und Mitarbeiter, profitorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "reduziertes Angebot für Kundendienst, schwierig für Leute, die nicht digital affin sind (ältere Leute, Ü70)",
+    "rating": "1"
+  },
+  {
+    "input": "geben Gefühl, dass sie ihre Arbeit gerne machen,und sich gerne und gut um den Kunden kümmern, positive Kundenerfahrung",
+    "rating": "1"
+  },
+  {
+    "input": "alle Kunden werden gleichwertig behandelt, sehr aufmerksam",
+    "rating": "1"
+  },
+  {
+    "input": "personenbezogener Empfang der Personen",
+    "rating": "1"
+  },
+  {
+    "input": "grosses Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "nur für einen Teil der Bevölkerung wird geschaut",
+    "rating": "1"
+  },
+  {
+    "input": "jeder ist gleichberechtigt und hat Recht auf Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "altersunabhängiger Job",
+    "rating": "1"
+  },
+  {
+    "input": "altersdiskriminierend, gibt Panik und Angst, man versteht die Dienste nicht",
+    "rating": "1"
+  },
+  {
+    "input": "Dazugehörigkeitsgefühl, Hilfsbereitschaft, Sicht auf die Gesamtheit der Bevölkerung",
+    "rating": "1"
+  },
+  {
+    "input": "nicht verständlich für alle, junge und ältere Leute verstehen es nicht, auch Analphabeten können nicht mithalten",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinnorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Vielfältigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Schweizer Dienst, für alle",
+    "rating": "1"
+  },
+  {
+    "input": "begrenzter Wirkungkreis",
+    "rating": "1"
+  },
+  {
+    "input": "Potential positiv für alle zu sein",
+    "rating": "1"
+  },
+  {
+    "input": "zu stark gewinnorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "teuer, Preisleistungsverhältnis passt nicht",
+    "rating": "1"
+  },
+  {
+    "input": "fühle mich gut aufgehoben, freundliches Personal",
+    "rating": "1"
+  },
+  {
+    "input": "liefern, was sie versprechen, Preisleistungsverhältnis ok",
+    "rating": "1"
+  },
+  {
+    "input": "günstig",
+    "rating": "1"
+  },
+  {
+    "input": "immer freundliches Personal, zuvorkommend",
+    "rating": "1"
+  },
+  {
+    "input": "kompromisslos und unfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "sicher und zielorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "profitorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Selbstständigkeit, familiär",
+    "rating": "1"
+  },
+  {
+    "input": "grosser Konzern, kein persönlicher Bezug zu Chef",
+    "rating": "1"
+  },
+  {
+    "input": "mehrere gute Dienstleistungen kombiniert in einem",
+    "rating": "1"
+  },
+  {
+    "input": "Kreativität leben",
+    "rating": "1"
+  },
+  {
+    "input": "direkter Kundenkontakt",
+    "rating": "1"
+  },
+  {
+    "input": "unpersönlich",
+    "rating": "1"
+  },
+  {
+    "input": "transparent, ist als Kunde gut zu wissen, was läuft",
+    "rating": "1"
+  },
+  {
+    "input": "keine PR, einzigartiges Angebot, das für sich spricht. Qualität vor Quantität",
+    "rating": "1"
+  },
+  {
+    "input": "Bündnis, gibt sicheren Eindruck",
+    "rating": "1"
+  },
+  {
+    "input": "global und breit gefächert, gibt Eindruck, man könne alles haben (auch unbrauchbares)",
+    "rating": "1"
+  },
+  {
+    "input": "marktbeherrschende Position, sind in geschützem Bereich unterwegs",
+    "rating": "1"
+  },
+  {
+    "input": "dem Marktgeschehen ausgesetzt",
+    "rating": "1"
+  },
+  {
+    "input": "kundenorientiert Angebot, passendes Mass von Online- und Offline Präsenz",
+    "rating": "1"
+  },
+  {
+    "input": "fachliche Kompetenz, gute Beratung mit fairem Preis (nicht das billigste ist wichtig, sondern das Verhältnis muss stimmen)",
+    "rating": "1"
+  },
+  {
+    "input": "hohe Verfügbarkeit und Zuverlässigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Ausnahmesituationen (ungewöhnliche Uhrzeiten, schweres Gepäck)",
+    "rating": "1"
+  },
+  {
+    "input": "multikulturell, verlässlich",
+    "rating": "1"
+  },
+  {
+    "input": "Nischenservice, in den Randregionen aktiv",
+    "rating": "1"
+  },
+  {
+    "input": "stark marktorientiert, digital, unternehmerisches Denken",
+    "rating": "1"
+  },
+  {
+    "input": "traditionelles Denken, weil sie geschützten Bereich haben",
+    "rating": "1"
+  },
+  {
+    "input": "hohe Zuverlässigkeit und Flexibilität und Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "ersetzbar, nicht einmalig, kein Alleinstellungsmerkmal",
+    "rating": "1"
+  },
+  {
+    "input": "breite physische Präsenz, sprechen dadurch Normalbürger an",
+    "rating": "1"
+  },
+  {
+    "input": "keine physische Präsenz, keine persönliche Beziehung, dafür jederzeit verfügbar",
+    "rating": "1"
+  },
+  {
+    "input": "in digitaler und physischer Welt zuhause",
+    "rating": "1"
+  },
+  {
+    "input": "service-public orientiert, gezwungen, diese Rolle einzunehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Service muss sich nicht wirtschaftlich rechnen, wichtig Gesellschaftszusammenhalt,Swissness Branding,",
+    "rating": "1"
+  },
+  {
+    "input": "wirtschaftlich denkend, abgekoppeltes und informatikorientiertes Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "kundenorientiert, flexibel, den äusseren Umständen anpassend",
+    "rating": "1"
+  },
+  {
+    "input": "Individualwünsche werden berücksichtigt, fachlich kompetente Ansprechperson vorhanden",
+    "rating": "1"
+  },
+  {
+    "input": "berücksichtigt wirtschaftlich Schwächere, abgelegene Gegenden bedient, verhindert Abwanderung, ermöglicht Entwicklung",
+    "rating": "1"
+  },
+  {
+    "input": "nur auf Aufforderung, mehr Tourismus orientiert, ergänzend zu öffentlichem Dienst (Postauto)",
+    "rating": "1"
+  },
+  {
+    "input": "naturnah. ermöglicht, abgelegene Orte und Natur zu erreichen und die Vielfalt der Schweiz zu entdecken",
+    "rating": "1"
+  },
+  {
+    "input": "komplex, mit vielen Gegensätzen",
+    "rating": "1"
+  },
+  {
+    "input": "gesellschaftsrelevant und naturbezogen, fördert eine gesunde Entwicklung",
+    "rating": "1"
+  },
+  {
+    "input": "komplexe Logistik, wenig persönliches Interesse dafür",
+    "rating": "1"
+  },
+  {
+    "input": "Nachhaltigkeit, Zukunft im Blick",
+    "rating": "1"
+  },
+  {
+    "input": "Wirtschaftlicher Gedanke, Gewinn orientiert",
+    "rating": "1"
+  },
+  {
+    "input": "regional orientiert, lokal verankert, eingebunden, bewirkt lokal Positives",
+    "rating": "1"
+  },
+  {
+    "input": "regulierende Instanz fehlt, gleichzeitig offen für alles",
+    "rating": "1"
+  },
+  {
+    "input": "Offenheit, Entwicklungsorientiert, open source",
+    "rating": "1"
+  },
+  {
+    "input": "starr, konservativ, Tradition verbunden",
+    "rating": "1"
+  },
+  {
+    "input": "tradionsorientiert, konservativ, Erneuerungen gehen sehr langsam",
+    "rating": "1"
+  },
+  {
+    "input": "sehr innovativ, schnelllebig",
+    "rating": "1"
+  },
+  {
+    "input": "mehrheitlich grimmiges Personal",
+    "rating": "1"
+  },
+  {
+    "input": "kulant",
+    "rating": "1"
+  },
+  {
+    "input": "wahrheitsgetreue, ehrliche Beratung, regt zum Denken an",
+    "rating": "1"
+  },
+  {
+    "input": "sehr freundliche und fachgerechte Beratung, top Service",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig, passende Anschlussverbindungen",
+    "rating": "1"
+  },
+  {
+    "input": "altersgerechtes Angebot, so dass jeder gesund bleibt (Plätze für Bedürftige)",
+    "rating": "1"
+  },
+  {
+    "input": "unkompliziert",
+    "rating": "1"
+  },
+  {
+    "input": "bürokratisch, langwierig und ineffizient",
+    "rating": "1"
+  },
+  {
+    "input": "multikulturell, sehr bereichernd und macht Freude",
+    "rating": "1"
+  },
+  {
+    "input": "geregelte Arbeitszeiten, gibt Struktur und Stabilität, macht es planbar",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig, sofort hilfe leistend, sehr kundenorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "positive Ausstrahlung, authentisch",
+    "rating": "1"
+  },
+  {
+    "input": "physisch präsent, persönlicher Bezug und Beratung ist wichtig",
+    "rating": "1"
+  },
+  {
+    "input": "einfach und schnell, praktisch",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "menschlich",
+    "rating": "1"
+  },
+  {
+    "input": "digitale Abläufe und Kommunikation, gibt grosses Manipulationspotential, viel schwieriger zum Einschätzen, gibt weniger Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "wenig Transparenz",
+    "rating": "1"
+  },
+  {
+    "input": "private Rechtsform, mehr Konkurrenz",
+    "rating": "1"
+  },
+  {
+    "input": "einzige Möglichkeit,kaum Alternativen",
+    "rating": "1"
+  },
+  {
+    "input": "greifbar, klar definiert",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel, z.B. längere Öffnungszeiten",
+    "rating": "1"
+  },
+  {
+    "input": "bezahlt, was man wirklich braucht und will, freie Entscheidung",
+    "rating": "1"
+  },
+  {
+    "input": "unflexibel, unpraktisch, viel Wartungsaufwand",
+    "rating": "1"
+  },
+  {
+    "input": "nachhaltig (umwelt und räumlich) und sicher",
+    "rating": "1"
+  },
+  {
+    "input": "Spontanität, gibt Gefühl von Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "moralisch vertretbare Grundsätze, bringt auch Dienst an Gesellschaft",
+    "rating": "1"
+  },
+  {
+    "input": "Wirtschaftlichkeit (kann nicht nur zum Spass arbeiten gehen)",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "rücksichtsvoll",
+    "rating": "1"
+  },
+  {
+    "input": "modern",
+    "rating": "1"
+  },
+  {
+    "input": "traditionell, konservativ",
+    "rating": "1"
+  },
+  {
+    "input": "immer verfügbar und ständiger/fliessender Prozess",
+    "rating": "1"
+  },
+  {
+    "input": "fixer Rahmen (z.B. Schalteröffnungszeiten, beschränkte Orte)",
+    "rating": "1"
+  },
+  {
+    "input": "selbst eingeschränkter Handlungsspielraum",
+    "rating": "1"
+  },
+  {
+    "input": "chaotisch, oft fehlendes Grundlagenwissen",
+    "rating": "1"
+  },
+  {
+    "input": "vielfältiges Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "weniger kompetent als sie sich präsentieren",
+    "rating": "1"
+  },
+  {
+    "input": "geht auf Kundenwünsche ein, und hat kompetente Beratung",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "begrenzter Service (zB keine Steckdosen)",
+    "rating": "1"
+  },
+  {
+    "input": "vielseitig, bietet viele Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "nicht überall vertreten",
+    "rating": "1"
+  },
+  {
+    "input": "gibt jungen Leuten  Chance/ Möglichkeit neue Sachen auszuprobieren",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir Möglichkeit mich weiter zu entwickeln",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir Möglichkeit, alles online und digital zu erledigen",
+    "rating": "1"
+  },
+  {
+    "input": "ist zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "erleichtert mir das Leben",
+    "rating": "1"
+  },
+  {
+    "input": "unangenehm, da digital noch begrenzt (zB Verträge)",
+    "rating": "1"
+  },
+  {
+    "input": "vereinfacht mir das Reisen durch Digitalität",
+    "rating": "1"
+  },
+  {
+    "input": "eingeschränkter Service da ich zum Schalter gehen muss",
+    "rating": "1"
+  },
+  {
+    "input": "regional überall vertreten, gibt mir Heimatgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "anonym",
+    "rating": "1"
+  },
+  {
+    "input": "bieten alltäglichen direkten service an, ohne dass ich ein Abo haben muss",
+    "rating": "1"
+  },
+  {
+    "input": "digital präsent und unkompliziert",
+    "rating": "1"
+  },
+  {
+    "input": "ökologisch und nachhaltig",
+    "rating": "1"
+  },
+  {
+    "input": "erbringt individuelle Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "sicherheit, Flexibilität, speditiv",
+    "rating": "1"
+  },
+  {
+    "input": "nimmt mir viel Zeit",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir Heimat und Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "fühle mich wilkommen, da freundliche Mitarbeiter",
+    "rating": "1"
+  },
+  {
+    "input": "kann meine Qualiäten einsetzen und werde gefördert",
+    "rating": "1"
+  },
+  {
+    "input": "gibt mir nicht viel zurück (keine erfüllende Aufgabe)",
+    "rating": "1"
+  },
+  {
+    "input": "ist auf mich zugeschnitten",
+    "rating": "1"
+  },
+  {
+    "input": "organisiert",
+    "rating": "1"
+  },
+  {
+    "input": "geben mir Vertrauen und Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "unberechenbar",
+    "rating": "1"
+  },
+  {
+    "input": "macht mein alltägliches Leben leichter",
+    "rating": "1"
+  },
+  {
+    "input": "erschwert mein Leben (muss zum Pakete abholen zum Volg gehen)",
+    "rating": "1"
+  },
+  {
+    "input": "fortschrittlich da Stellenabbau zugunsten Digitalität",
+    "rating": "1"
+  },
+  {
+    "input": "finde es gut, da sie Traditionalität bewahrt",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig und pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "Monopolist, arrogant und teuer",
+    "rating": "1"
+  },
+  {
+    "input": "bescheiden, aufmerksam, zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "kompetent",
+    "rating": "1"
+  },
+  {
+    "input": "erfüllt meine Anforderungen",
+    "rating": "1"
+  },
+  {
+    "input": "anerkannt",
+    "rating": "1"
+  },
+  {
+    "input": "sauber und ehrlich",
+    "rating": "1"
+  },
+  {
+    "input": "einmalig, gibt es nur in der Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "innovative Unternehmensführung, sozial gegenüber Mitarbeiter",
+    "rating": "1"
+  },
+  {
+    "input": "haben klar strukturierte Vorgaben",
+    "rating": "1"
+  },
+  {
+    "input": "befreit und neugierig",
+    "rating": "1"
+  },
+  {
+    "input": "offen für Veränderungen und trotzdem qualitätsbewusst",
+    "rating": "1"
+  },
+  {
+    "input": "nahe am Kunden und effizient",
+    "rating": "1"
+  },
+  {
+    "input": "Grossanbieter, träge und langsam",
+    "rating": "1"
+  },
+  {
+    "input": "zeitnah und sehr informativ",
+    "rating": "1"
+  },
+  {
+    "input": "notwendiger zuverlässiger Dienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "beständig, nachhaltig und offen für Neues in Zukunft",
+    "rating": "1"
+  },
+  {
+    "input": "befähigter Arbeitgeber für sozialverträgliche und sichere Jobs",
+    "rating": "1"
+  },
+  {
+    "input": "Staatsbetriebe, sympathisch",
+    "rating": "1"
+  },
+  {
+    "input": "Skandale",
+    "rating": "1"
+  },
+  {
+    "input": "positiv optimistisch",
+    "rating": "1"
+  },
+  {
+    "input": "unsicher",
+    "rating": "1"
+  },
+  {
+    "input": "konzernartiges",
+    "rating": "1"
+  },
+  {
+    "input": "weniger im Mittelpunkt",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenaffin mit der Zeit gehen, gutes Sortiment, gute Mitarbeiter",
+    "rating": "1"
+  },
+  {
+    "input": "gegenseitiger Austausch, man muss nichts aus der Nase ziehen",
+    "rating": "1"
+  },
+  {
+    "input": "schnell",
+    "rating": "1"
+  },
+  {
+    "input": "positiv human",
+    "rating": "1"
+  },
+  {
+    "input": "wunderschön, sicher",
+    "rating": "1"
+  },
+  {
+    "input": "altmodisch",
+    "rating": "1"
+  },
+  {
+    "input": "selbstständig sein",
+    "rating": "1"
+  },
+  {
+    "input": "statisch, unmodern",
+    "rating": "1"
+  },
+  {
+    "input": "an sehr wenigen Stellen erreichbar",
+    "rating": "1"
+  },
+  {
+    "input": "zu wenig flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Monopolartig",
+    "rating": "1"
+  },
+  {
+    "input": "positiv modern, immer erreichbar",
+    "rating": "1"
+  },
+  {
+    "input": "störrisch",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsgerichtet",
+    "rating": "1"
+  },
+  {
+    "input": "verstaubtes Image (ptt)",
+    "rating": "1"
+  },
+  {
+    "input": "Sympathie und Menschlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Ferienstimmung",
+    "rating": "1"
+  },
+  {
+    "input": "beruflich",
+    "rating": "1"
+  },
+  {
+    "input": "Gleiche Sachen werden transportiert",
+    "rating": "1"
+  },
+  {
+    "input": "Digitale Leistungen",
+    "rating": "1"
+  },
+  {
+    "input": "offen für neues",
+    "rating": "1"
+  },
+  {
+    "input": "stur und bewegungslos in der Gestaltung der Zukunf",
+    "rating": "1"
+  },
+  {
+    "input": "hohe gebühren",
+    "rating": "1"
+  },
+  {
+    "input": "Kostenintensiv und überteuert für die Leistung",
+    "rating": "1"
+  },
+  {
+    "input": "das gemüht wird befriedigt",
+    "rating": "1"
+  },
+  {
+    "input": "das erlebt man nicht viel",
+    "rating": "1"
+  },
+  {
+    "input": "reagiert flexibel auf persönliche Anforderungen",
+    "rating": "1"
+  },
+  {
+    "input": "Abhängigkeit und fehlende eigene individuelle Durchsetzung",
+    "rating": "1"
+  },
+  {
+    "input": "beides Staatsbetrieb",
+    "rating": "1"
+  },
+  {
+    "input": "Alleinentscheider und Gestaltungsfreiheit",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel und selbstentscheider",
+    "rating": "1"
+  },
+  {
+    "input": "reguliert in Vorschriften",
+    "rating": "1"
+  },
+  {
+    "input": "vom Bund subventioniert",
+    "rating": "1"
+  },
+  {
+    "input": "der Kunde steht mehr im Zentrum",
+    "rating": "1"
+  },
+  {
+    "input": "wir sind natürliche Personen",
+    "rating": "1"
+  },
+  {
+    "input": "ist weniger agil bei Veränderungen",
+    "rating": "1"
+  },
+  {
+    "input": "PostAuto bleibt seiner Grundtätigkeit treu",
+    "rating": "1"
+  },
+  {
+    "input": "Veränderung",
+    "rating": "1"
+  },
+  {
+    "input": "Spass",
+    "rating": "1"
+  },
+  {
+    "input": "Erwartungshaltung",
+    "rating": "1"
+  },
+  {
+    "input": "Agilität",
+    "rating": "1"
+  },
+  {
+    "input": "strukturierter",
+    "rating": "1"
+  },
+  {
+    "input": "Mobilität",
+    "rating": "1"
+  },
+  {
+    "input": "träge Veränderung",
+    "rating": "1"
+  },
+  {
+    "input": "modern",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenfokus",
+    "rating": "1"
+  },
+  {
+    "input": "angepasst Verhaltensweise",
+    "rating": "1"
+  },
+  {
+    "input": "Präsenz",
+    "rating": "1"
+  },
+  {
+    "input": "Post und Swisscom sind beide in sehr vielfältigen Bereichen tätigen (Bank, Mobilephone, Datenverkehr etc.) SBB beschränkt sich grösstenteils auf Transport von Personen und Gütern",
+    "rating": "1"
+  },
+  {
+    "input": "Die SBB beschränkt sich auf einen kleineren Teilbereich indem sie fast nur sich mit Transport von Personen und Gütern beschäftigen.",
+    "rating": "1"
+  },
+  {
+    "input": "Wir sind weltoffen und sehr gemeinschaftsdienlich unterwegs.",
+    "rating": "1"
+  },
+  {
+    "input": "Die Schweiz ist oft etwas engstirnig und ängstlich und politisch träge",
+    "rating": "1"
+  },
+  {
+    "input": "Beide haben ein modernes Design, vielfältiges Angebot und sind digital gut verknüpft",
+    "rating": "1"
+  },
+  {
+    "input": "Der PostAuto Skandal wirkt noch nach und die PostAuto wirkt etwas altmodisch, ländlich.",
+    "rating": "1"
+  },
+  {
+    "input": "digital gut erreichbar, jederzeit aufrufbar und vielfältiges Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "persönlicher, authentisch und gibt eine gute Beziehung zur PostFinance",
+    "rating": "1"
+  },
+  {
+    "input": "beide individuell nutzbar, frei zur Verfügung stehend",
+    "rating": "1"
+  },
+  {
+    "input": "Altmodisch wirkend und an Fahrzeiten gebunden",
+    "rating": "1"
+  },
+  {
+    "input": "beide wirken etwas altmodisch und einschränkend auf mich",
+    "rating": "1"
+  },
+  {
+    "input": "ich unterwegs versuche mich so frei und spontan wie nur möglich zu bewegen",
+    "rating": "1"
+  },
+  {
+    "input": "Wunscharbeitgeber und meine Zukunft sind mit viel individualität und Freiheiten verknüpft bei mir",
+    "rating": "1"
+  },
+  {
+    "input": "durch die Medien wirkt es mir etwas engstirnig und klassisch",
+    "rating": "1"
+  },
+  {
+    "input": "modernes Design, vielfältig, seriös",
+    "rating": "1"
+  },
+  {
+    "input": "spontan, verträumt und etwas abwesend, zu leicht zu begeistern",
+    "rating": "1"
+  },
+  {
+    "input": "versuchen sich beide mehr oder weniger erfolgreich neu zu erfinden, modern zu sein und digitale Welten zu erschliessen",
+    "rating": "1"
+  },
+  {
+    "input": "Ist schon modern und in der digitalen Welt angekommen",
+    "rating": "1"
+  },
+  {
+    "input": "beide digital verbunden, versuchen sich an der Zukunft zu orienteren und den Sprung in die Digitale Welt zu schaffen",
+    "rating": "1"
+  },
+  {
+    "input": "etwas altmodisch, viel papierkram..",
+    "rating": "1"
+  },
+  {
+    "input": "eher Staatsbetriebe",
+    "rating": "1"
+  },
+  {
+    "input": "dynamischer",
+    "rating": "1"
+  },
+  {
+    "input": "liberal und eher demokratischer",
+    "rating": "1"
+  },
+  {
+    "input": "zu links",
+    "rating": "1"
+  },
+  {
+    "input": "zeitgemäß",
+    "rating": "1"
+  },
+  {
+    "input": "zu staatlich",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "umsatzorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche Zielsetzung",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsbezogen",
+    "rating": "1"
+  },
+  {
+    "input": "Die Zielsetzung",
+    "rating": "1"
+  },
+  {
+    "input": "sozial",
+    "rating": "1"
+  },
+  {
+    "input": "menschlich",
+    "rating": "1"
+  },
+  {
+    "input": "Lebensfreude",
+    "rating": "1"
+  },
+  {
+    "input": "Zufriedenheit",
+    "rating": "1"
+  },
+  {
+    "input": "monetär",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistungszufriedenheit",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "verbessert meine Welt",
+    "rating": "1"
+  },
+  {
+    "input": "Greifbar",
+    "rating": "1"
+  },
+  {
+    "input": "Zuverlässigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Interessen Freizeit und weltoffen",
+    "rating": "1"
+  },
+  {
+    "input": "Konservativ",
+    "rating": "1"
+  },
+  {
+    "input": "Alltagsnutzen",
+    "rating": "1"
+  },
+  {
+    "input": "spezielles Bedürfnis ,mangels Alternativen",
+    "rating": "1"
+  },
+  {
+    "input": "Warenfülle",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheit in ihren Leistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Transportunternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Mobiltelefon-Abonnement-Anbieter",
+    "rating": "1"
+  },
+  {
+    "input": "Personen",
+    "rating": "1"
+  },
+  {
+    "input": "Land",
+    "rating": "1"
+  },
+  {
+    "input": "Transport von Objekten",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Shops",
+    "rating": "1"
+  },
+  {
+    "input": "Services",
+    "rating": "1"
+  },
+  {
+    "input": "Firma",
+    "rating": "1"
+  },
+  {
+    "input": "Fahrzeug",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Land",
+    "rating": "1"
+  },
+  {
+    "input": "Arbeitsgeber",
+    "rating": "1"
+  },
+  {
+    "input": "Person",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Reisen",
+    "rating": "1"
+  },
+  {
+    "input": "Paket- und Briefversand",
+    "rating": "1"
+  },
+  {
+    "input": "Geldversand",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Internet",
+    "rating": "1"
+  },
+  {
+    "input": "Standardisierte Dienstleistungen für jeden",
+    "rating": "1"
+  },
+  {
+    "input": "Bedarfsorientiertes modulares Produkt- u. Serviceangebot",
+    "rating": "1"
+  },
+  {
+    "input": "Gleiche Interessen",
+    "rating": "1"
+  },
+  {
+    "input": "Unberechenbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Positive Zukunftsperspektive",
+    "rating": "1"
+  },
+  {
+    "input": "Zu teuer, zu schwerfällig, fehlende Marktrelevanz, düstere Prognose",
+    "rating": "1"
+  },
+  {
+    "input": "Virtuelles Produkt- und Serviceangebot",
+    "rating": "1"
+  },
+  {
+    "input": "Physische direkt erlebare Produkte",
+    "rating": "1"
+  },
+  {
+    "input": "Kein Alleinstellungsmerkmal Produktangebot",
+    "rating": "1"
+  },
+  {
+    "input": "Bedarfsorientierte Produkte und Services",
+    "rating": "1"
+  },
+  {
+    "input": "Generelle Veränderungsfähigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Unveränderlich und stabil",
+    "rating": "1"
+  },
+  {
+    "input": "Individuell, flexibel, bestimmbar",
+    "rating": "1"
+  },
+  {
+    "input": "Kostengetrieben und Sparzwang",
+    "rating": "1"
+  },
+  {
+    "input": "schritt weniger digitalisiert",
+    "rating": "1"
+  },
+  {
+    "input": "weiter in der Digitalisierung / Transformation",
+    "rating": "1"
+  },
+  {
+    "input": "Sarkasmus",
+    "rating": "1"
+  },
+  {
+    "input": "ordentlich",
+    "rating": "1"
+  },
+  {
+    "input": "Skandalfreies Image",
+    "rating": "1"
+  },
+  {
+    "input": "Neue Geschäftsleitung",
+    "rating": "1"
+  },
+  {
+    "input": "Direkter Kundenkontakt",
+    "rating": "1"
+  },
+  {
+    "input": "immer verfügbar",
+    "rating": "1"
+  },
+  {
+    "input": "Verlässlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Unabhängigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Mobil",
+    "rating": "1"
+  },
+  {
+    "input": "Konsensorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Leistungsorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Mitarbeiterorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Spontanität",
+    "rating": "1"
+  },
+  {
+    "input": "amerikanisch",
+    "rating": "1"
+  },
+  {
+    "input": "Tradition",
+    "rating": "1"
+  },
+  {
+    "input": "Persönliche Beziehung",
+    "rating": "1"
+  },
+  {
+    "input": "Digitale Beziehung",
+    "rating": "1"
+  },
+  {
+    "input": "beides ist positiv, das andere negativ",
+    "rating": "1"
+  },
+  {
+    "input": "alles",
+    "rating": "1"
+  },
+  {
+    "input": "wohlfühlen",
+    "rating": "1"
+  },
+  {
+    "input": "nicht schnell",
+    "rating": "1"
+  },
+  {
+    "input": "präsent",
+    "rating": "1"
+  },
+  {
+    "input": "unauffällig",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenzufriedenheit",
+    "rating": "1"
+  },
+  {
+    "input": "unfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Beständigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "modern",
+    "rating": "1"
+  },
+  {
+    "input": "beständig",
+    "rating": "1"
+  },
+  {
+    "input": "weniger sicher",
+    "rating": "1"
+  },
+  {
+    "input": "Qualität",
+    "rating": "1"
+  },
+  {
+    "input": "Quantität",
+    "rating": "1"
+  },
+  {
+    "input": "professionell",
+    "rating": "1"
+  },
+  {
+    "input": "fällt nicht auf",
+    "rating": "1"
+  },
+  {
+    "input": "vertrauenswürdig",
+    "rating": "1"
+  },
+  {
+    "input": "unfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "kennt man noch nicht",
+    "rating": "1"
+  },
+  {
+    "input": "präsent",
+    "rating": "1"
+  },
+  {
+    "input": "Das ganze Umfeld dreht sich durch die Digitalisierung immer schneller, damit spannend und vielseitig - Arrogant beschreibtnur den Eindruck",
+    "rating": "1"
+  },
+  {
+    "input": "Überheblichkeit auf dem Markt ggü Kunden",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrautheit",
+    "rating": "1"
+  },
+  {
+    "input": "Komplex",
+    "rating": "1"
+  },
+  {
+    "input": "Alle müssen digitaler werden",
+    "rating": "1"
+  },
+  {
+    "input": "Wer stehen bleibt stirbt",
+    "rating": "1"
+  },
+  {
+    "input": "Kundennähe",
+    "rating": "1"
+  },
+  {
+    "input": "Produktevielfalt",
+    "rating": "1"
+  },
+  {
+    "input": "Transportmittel",
+    "rating": "1"
+  },
+  {
+    "input": "keine Innovation",
+    "rating": "1"
+  },
+  {
+    "input": "Es muss immer schneller gehen",
+    "rating": "1"
+  },
+  {
+    "input": "relaxed",
+    "rating": "1"
+  },
+  {
+    "input": "Sehr vielseitig",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrautheit",
+    "rating": "1"
+  },
+  {
+    "input": "Stetiger Wandel",
+    "rating": "1"
+  },
+  {
+    "input": "Stabilität",
+    "rating": "1"
+  },
+  {
+    "input": "Physik",
+    "rating": "1"
+  },
+  {
+    "input": "Digital",
+    "rating": "1"
+  },
+  {
+    "input": "Komplexität",
+    "rating": "1"
+  },
+  {
+    "input": "Stabilität",
+    "rating": "1"
+  },
+  {
+    "input": "fit",
+    "rating": "1"
+  },
+  {
+    "input": "unpünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "unbeliebt",
+    "rating": "1"
+  },
+  {
+    "input": "Kindheitserinnerung",
+    "rating": "1"
+  },
+  {
+    "input": "kundengerecht",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "ungewiss",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "Mitarbeiterfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Shareholderdenken",
+    "rating": "1"
+  },
+  {
+    "input": "visionär",
+    "rating": "1"
+  },
+  {
+    "input": "stur",
+    "rating": "1"
+  },
+  {
+    "input": "Reine Transportdienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Digitaler Komplettdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Dynamisch, offen und modern",
+    "rating": "1"
+  },
+  {
+    "input": "Traditionen vepflichtet",
+    "rating": "1"
+  },
+  {
+    "input": "Starke und einheitliche Gemeinschaft",
+    "rating": "1"
+  },
+  {
+    "input": "Klare und positive Positionierung",
+    "rating": "1"
+  },
+  {
+    "input": "Schneller und effizienter Kundenservice",
+    "rating": "1"
+  },
+  {
+    "input": "Persönliche und bedarfsorientierte Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Austauschbare Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Klares und präzises Alleinstellungsmerkmal",
+    "rating": "1"
+  },
+  {
+    "input": "Genervt",
+    "rating": "1"
+  },
+  {
+    "input": "Happy",
+    "rating": "1"
+  },
+  {
+    "input": "Nervig",
+    "rating": "1"
+  },
+  {
+    "input": "Gemütlich",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Beauty",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Schlecht",
+    "rating": "1"
+  },
+  {
+    "input": "Gut",
+    "rating": "1"
+  },
+  {
+    "input": "Schlecht",
+    "rating": "1"
+  },
+  {
+    "input": "Luxus",
+    "rating": "1"
+  },
+  {
+    "input": "Eingeschränkt",
+    "rating": "1"
+  },
+  {
+    "input": "Verständlich",
+    "rating": "1"
+  },
+  {
+    "input": "Spontan",
+    "rating": "1"
+  },
+  {
+    "input": "Ärgerlich",
+    "rating": "1"
+  },
+  {
+    "input": "Erfreulich",
+    "rating": "1"
+  },
+  {
+    "input": "sichere zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "problemlos, man bekommt sofort Unterstützung (lange erreichbar)",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "sauber, gut strukturiert",
+    "rating": "1"
+  },
+  {
+    "input": "Genauigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Unzuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "Qualität, schauen, wo die Ware herkommt (hoher Standard)",
+    "rating": "1"
+  },
+  {
+    "input": "perfekte Produkte und Service, fehlerfreies Bedienen",
+    "rating": "1"
+  },
+  {
+    "input": "schnell",
+    "rating": "1"
+  },
+  {
+    "input": "ultraschnell",
+    "rating": "1"
+  },
+  {
+    "input": "unterwegs",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "verwandt",
+    "rating": "1"
+  },
+  {
+    "input": "konservativ",
+    "rating": "1"
+  },
+  {
+    "input": "spezifisch",
+    "rating": "1"
+  },
+  {
+    "input": "allgemein",
+    "rating": "1"
+  },
+  {
+    "input": "vielseitig",
+    "rating": "1"
+  },
+  {
+    "input": "spezifisch",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "übersichtlicher",
+    "rating": "1"
+  },
+  {
+    "input": "zielorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "grossflächig",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "beständig",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "einseitig",
+    "rating": "1"
+  },
+  {
+    "input": "kundenorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "einseitig",
+    "rating": "1"
+  },
+  {
+    "input": "vertrauenswürdig",
+    "rating": "1"
+  },
+  {
+    "input": "unendlich",
+    "rating": "1"
+  },
+  {
+    "input": "Beides Dienstleistungsbetriebe mit vielen diversen Angeboten",
+    "rating": "1"
+  },
+  {
+    "input": "Nur Telekomanbieter, keine Diversifikation.",
+    "rating": "1"
+  },
+  {
+    "input": "Eine Einheit",
+    "rating": "1"
+  },
+  {
+    "input": "Nicht Einheitlich",
+    "rating": "1"
+  },
+  {
+    "input": "Innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "alte Schule",
+    "rating": "1"
+  },
+  {
+    "input": "macht freude",
+    "rating": "1"
+  },
+  {
+    "input": "Chaotisch",
+    "rating": "1"
+  },
+  {
+    "input": "eingeschränktes Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "diverse Angebote",
+    "rating": "1"
+  },
+  {
+    "input": "zu langsam",
+    "rating": "1"
+  },
+  {
+    "input": "dynamisch",
+    "rating": "1"
+  },
+  {
+    "input": "modern",
+    "rating": "1"
+  },
+  {
+    "input": "alt",
+    "rating": "1"
+  },
+  {
+    "input": "Innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "Eingeschränkt ",
+    "rating": "1"
+  },
+  {
+    "input": "grosses Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "Eingeschränkt",
+    "rating": "1"
+  },
+  {
+    "input": "persönlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "anonym",
+    "rating": "1"
+  },
+  {
+    "input": "Transportunternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Digital",
+    "rating": "1"
+  },
+  {
+    "input": "persönlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "vielfalt",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "konzernartig",
+    "rating": "1"
+  },
+  {
+    "input": "kundenorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "persönlicher Bezug",
+    "rating": "1"
+  },
+  {
+    "input": "unterwegs",
+    "rating": "1"
+  },
+  {
+    "input": "vielfälltig",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftgerichtet",
+    "rating": "1"
+  },
+  {
+    "input": "aktuell",
+    "rating": "1"
+  },
+  {
+    "input": "Win/Win",
+    "rating": "1"
+  },
+  {
+    "input": "internbezogen",
+    "rating": "1"
+  },
+  {
+    "input": "Logistiker",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol Stellung",
+    "rating": "1"
+  },
+  {
+    "input": "Art des Unternehmens sprich Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Gemeinsamkeiten, Kultur",
+    "rating": "1"
+  },
+  {
+    "input": "Heimat",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Transportunternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Lieferqualität",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenerlebnis",
+    "rating": "1"
+  },
+  {
+    "input": "Tranportunternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Innovation",
+    "rating": "1"
+  },
+  {
+    "input": "Lokale Zusammenghörigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Internationalität",
+    "rating": "1"
+  },
+  {
+    "input": "Weltoffenheit",
+    "rating": "1"
+  },
+  {
+    "input": "Engstirnig",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Kein idealer Dienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Privatkonzern",
+    "rating": "1"
+  },
+  {
+    "input": "Monoposstellung",
+    "rating": "1"
+  },
+  {
+    "input": "Digitale Leistung",
+    "rating": "1"
+  },
+  {
+    "input": "Sicherheitsstandards",
+    "rating": "1"
+  },
+  {
+    "input": "Staatlich exklusive Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Selbstversorger im wirtschaftlichen Überleben",
+    "rating": "1"
+  },
+  {
+    "input": "Persönliche Verbundenheit",
+    "rating": "1"
+  },
+  {
+    "input": "Unpersönlich",
+    "rating": "1"
+  },
+  {
+    "input": "Austauschbare Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Einzigartige Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Freundlich, Offen, Kundenorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Kennt meine Wünsche und Präferenzenzen",
+    "rating": "1"
+  },
+  {
+    "input": "Kennt und handelt nach meinen Wünschen",
+    "rating": "1"
+  },
+  {
+    "input": "Standardisierter Dienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Lebendig und Einzigartig",
+    "rating": "1"
+  },
+  {
+    "input": "Künstliches und unpersönliches Konstrukt",
+    "rating": "1"
+  },
+  {
+    "input": "Die Post und die SBB sind immer noch sehr staatsnahe Betriebe",
+    "rating": "1"
+  },
+  {
+    "input": "Swisscom ist in meiner Wahrnehmung deutlich moderner, weniger ein Staatsbetrieb",
+    "rating": "1"
+  },
+  {
+    "input": "Wir sind beides Schweizer, doch arbeiten als Flight Attendants und sind dadurch weltoffener als die Durchschnittsschweiz",
+    "rating": "1"
+  },
+  {
+    "input": "Die Schweiz ist deutlich wertkonservativer",
+    "rating": "1"
+  },
+  {
+    "input": "Staatsnahe, konservative Betriebe",
+    "rating": "1"
+  },
+  {
+    "input": "Die PostFinance ist ein relativ moderner Finanzdienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Zuverlässige sehr gute Leistung ohne Schwankungen",
+    "rating": "1"
+  },
+  {
+    "input": "Persönliche, herzliche Note",
+    "rating": "1"
+  },
+  {
+    "input": "Transport in ländlichen Regionen",
+    "rating": "1"
+  },
+  {
+    "input": "Der ideale Dienstleister ist moderner",
+    "rating": "1"
+  },
+  {
+    "input": "PostAuto heute steht für den typischen gegenwärtigen Personentransport in der Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "Ich nutze neben PostAuto und SBB auch neue Transportmöglichkeiten wie UBER oder Lime",
+    "rating": "1"
+  },
+  {
+    "input": "Flexible Arbeitszeiten, Remote Arbeiten",
+    "rating": "1"
+  },
+  {
+    "input": "In meiner Wahrnehmung bietet die Post wenig flexible Arbeitsmodelle",
+    "rating": "1"
+  },
+  {
+    "input": "keine Restriktionen beim idealen Dienstleister",
+    "rating": "1"
+  },
+  {
+    "input": "Postfinance ist nicht überall einsetzbar",
+    "rating": "1"
+  },
+  {
+    "input": "Operieren mit ähnlichem Geschäftsmodell wie vor 20 Jahren",
+    "rating": "1"
+  },
+  {
+    "input": "Coople bietet moderne, zeitgemässe Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "UBS und die Digitale Welt reagieren sehr schnell auf Veränderungen",
+    "rating": "1"
+  },
+  {
+    "input": "PostFinance agiert langsamer im Vergleich zu anderen Banken",
+    "rating": "1"
+  },
+  {
+    "input": "analog",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "Offenheit",
+    "rating": "1"
+  },
+  {
+    "input": "Prüde",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Finance",
+    "rating": "1"
+  },
+  {
+    "input": "Einfachheit",
+    "rating": "1"
+  },
+  {
+    "input": "zeitaufwändig",
+    "rating": "1"
+  },
+  {
+    "input": "ÖV",
+    "rating": "1"
+  },
+  {
+    "input": "Digitalisierung",
+    "rating": "1"
+  },
+  {
+    "input": "langsam",
+    "rating": "1"
+  },
+  {
+    "input": "Einfachheit",
+    "rating": "1"
+  },
+  {
+    "input": "Wertvorstellung",
+    "rating": "1"
+  },
+  {
+    "input": "Interesse",
+    "rating": "1"
+  },
+  {
+    "input": "effizient",
+    "rating": "1"
+  },
+  {
+    "input": "kompliziert",
+    "rating": "1"
+  },
+  {
+    "input": "schnell",
+    "rating": "1"
+  },
+  {
+    "input": "altmodisch",
+    "rating": "1"
+  },
+  {
+    "input": "modern",
+    "rating": "1"
+  },
+  {
+    "input": "beschränkt",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Konkurrenz",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "Kein persönlicher Bezug",
+    "rating": "1"
+  },
+  {
+    "input": "Man besucht sie persönlich",
+    "rating": "1"
+  },
+  {
+    "input": "Nur digitaler Kontakt",
+    "rating": "1"
+  },
+  {
+    "input": "Es handelt sich um Beratung",
+    "rating": "1"
+  },
+  {
+    "input": "Es handelt sich um ein Geschäft",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Vielfalt",
+    "rating": "1"
+  },
+  {
+    "input": "Viele Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "Beschränkte Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "modern",
+    "rating": "1"
+  },
+  {
+    "input": "\"alt\"",
+    "rating": "1"
+  },
+  {
+    "input": "vielseitig",
+    "rating": "1"
+  },
+  {
+    "input": "einseitig",
+    "rating": "1"
+  },
+  {
+    "input": "nicht digital",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "eingeschränkte Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "unbeschränkte Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "SBB and Swisscom have almost a Monopoly in Switzerland. Post shares delivery with DHL, UPS for example.",
+    "rating": "1"
+  },
+  {
+    "input": "Post has in my opinion more competitors then SBB and Swisscom.",
+    "rating": "1"
+  },
+  {
+    "input": "High level of trust and loyalty.",
+    "rating": "1"
+  },
+  {
+    "input": "Switzerland is a nonpartisan country.",
+    "rating": "1"
+  },
+  {
+    "input": "They have a smaller marketshare then their competitors.",
+    "rating": "1"
+  },
+  {
+    "input": "Largly used in Switzerland. Highly competitive.",
+    "rating": "1"
+  },
+  {
+    "input": "Innovative",
+    "rating": "1"
+  },
+  {
+    "input": "Price and Quality ratio",
+    "rating": "1"
+  },
+  {
+    "input": "Wider range of skills",
+    "rating": "1"
+  },
+  {
+    "input": "One skill focus",
+    "rating": "1"
+  },
+  {
+    "input": "Local",
+    "rating": "1"
+  },
+  {
+    "input": "Diversification",
+    "rating": "1"
+  },
+  {
+    "input": "International and Young",
+    "rating": "1"
+  },
+  {
+    "input": "Local and Old School",
+    "rating": "1"
+  },
+  {
+    "input": "Flexible",
+    "rating": "1"
+  },
+  {
+    "input": "Not everywhere established",
+    "rating": "1"
+  },
+  {
+    "input": "Services",
+    "rating": "1"
+  },
+  {
+    "input": "Physical products",
+    "rating": "1"
+  },
+  {
+    "input": "Financial Services",
+    "rating": "1"
+  },
+  {
+    "input": "Wide range of opportunities",
+    "rating": "1"
+  },
+  {
+    "input": "Der Service ist bei beiden massiv schlechter geworden.",
+    "rating": "1"
+  },
+  {
+    "input": "Besserer Kundenservice",
+    "rating": "1"
+  },
+  {
+    "input": "Wir sind offener als mein bester Freund. Der verzieht sich doch gerne in sein Schneckenhaus und ist träge.",
+    "rating": "1"
+  },
+  {
+    "input": "Wir schwingen auf der gleichen Ebene.",
+    "rating": "1"
+  },
+  {
+    "input": "Bei beiden wird der Service immer schlechter.",
+    "rating": "1"
+  },
+  {
+    "input": "Sie versuchen nach dem Skandal die Reputation wieder herzustellen.",
+    "rating": "1"
+  },
+  {
+    "input": "Beide sind schon fast ein Idealer Dienstleister mit top Kundenservice.",
+    "rating": "1"
+  },
+  {
+    "input": "Der versteht die Kundenbedürfnisse noch besser. Champions League der Dienstleister.",
+    "rating": "1"
+  },
+  {
+    "input": "Beide haben noch potential nach oben.",
+    "rating": "1"
+  },
+  {
+    "input": "Alles prima! Besten auf den Kunden abgestimmt auch in der digitalen Welt.",
+    "rating": "1"
+  },
+  {
+    "input": "Umweltfreundlich",
+    "rating": "1"
+  },
+  {
+    "input": "Trägt weniger Sorge zur Umwelt.",
+    "rating": "1"
+  },
+  {
+    "input": "Zuverlässig und vertrauensvoller Umgang mit den Mitarbeiter.",
+    "rating": "1"
+  },
+  {
+    "input": "Fragwürdiger Umgang mit Mitarbeiter.",
+    "rating": "1"
+  },
+  {
+    "input": "Flexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Unflexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Viel dienstleisterisches Potential nach oben.",
+    "rating": "1"
+  },
+  {
+    "input": "Guter Kundenservice",
+    "rating": "1"
+  },
+  {
+    "input": "Digital viel mehr Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "Weniger online Dienstleistungen.",
+    "rating": "1"
+  },
+  {
+    "input": "Ähnlich: Bekannt und werden täglich genutzt",
+    "rating": "1"
+  },
+  {
+    "input": "Keine Konkurrenz",
+    "rating": "1"
+  },
+  {
+    "input": "Unbezahlbar",
+    "rating": "1"
+  },
+  {
+    "input": "Modern",
+    "rating": "1"
+  },
+  {
+    "input": "Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Nutzen",
+    "rating": "1"
+  },
+  {
+    "input": "online vergfübarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Lieferzeit",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung (Art)",
+    "rating": "1"
+  },
+  {
+    "input": "Preis",
+    "rating": "1"
+  },
+  {
+    "input": "Standort",
+    "rating": "1"
+  },
+  {
+    "input": "Verfügbarkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Branche",
+    "rating": "1"
+  },
+  {
+    "input": "Erfahrung",
+    "rating": "1"
+  },
+  {
+    "input": "Reputation",
+    "rating": "1"
+  },
+  {
+    "input": "Know-How",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Tätigkeitsfeld",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "Anzahl Nutzer",
+    "rating": "1"
+  },
+  {
+    "input": "Täglicher Gebrauch,",
+    "rating": "1"
+  },
+  {
+    "input": "Nicht so dynamisch, nicht so innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen, Beziehung",
+    "rating": "1"
+  },
+  {
+    "input": "Neutral",
+    "rating": "1"
+  },
+  {
+    "input": "Dynamischer",
+    "rating": "1"
+  },
+  {
+    "input": "Eher für Ältere",
+    "rating": "1"
+  },
+  {
+    "input": "Gute Beziehung",
+    "rating": "1"
+  },
+  {
+    "input": "Unpersönlicher",
+    "rating": "1"
+  },
+  {
+    "input": "Busunternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Innovation",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Neutral",
+    "rating": "1"
+  },
+  {
+    "input": "Dynamisch",
+    "rating": "1"
+  },
+  {
+    "input": "Träge",
+    "rating": "1"
+  },
+  {
+    "input": "Lebhaft",
+    "rating": "1"
+  },
+  {
+    "input": "Schwunglos",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Einfallsreich",
+    "rating": "1"
+  },
+  {
+    "input": "Banken",
+    "rating": "1"
+  },
+  {
+    "input": "Orginell",
+    "rating": "1"
+  },
+  {
+    "input": "Essind zwei Unternehmen, welche häufig genutzt werden und keine Konkurrenz haben. Zur Swisscom gibt es Alternativen.",
+    "rating": "1"
+  },
+  {
+    "input": "Die Swisscom ist ein privates Unternehmen, welches Mobilfunk und Festnetzanschlüsse/ Internetdienste anbiete. Dabei steht es im Wettbewerb zu vielen anderen ähnlichen Unternehmen.",
+    "rating": "1"
+  },
+  {
+    "input": "\"Ich heute\" und \"Eltern\" gehört zum dem Kern Familie und bildet die kleinste Einheit in der Gesellschaft.Sie ist das wichtigste Kleinumfeld. \"Schweiz\" stellt meinen derzeitigen Lebensraum dar.",
+    "rating": "1"
+  },
+  {
+    "input": "Die Schweiz ist ein zeitlich begrenzter Aufenthaltsort, wobei Eltern/ Ich heute kein Ort ist sondern Familie",
+    "rating": "1"
+  },
+  {
+    "input": "Die Postfinance ist eine Bank, wobei das PostAuto zum Unternehmen der Post gehören könnte",
+    "rating": "1"
+  },
+  {
+    "input": "Das PostAuto scheint ein Unternehmen der Post zu sein, wobei Postfinance eine Bank ist und nichts mit der Post zu tun hat",
+    "rating": "1"
+  },
+  {
+    "input": "Globus ist ein Warenhaus, welches m.E. viel Wert auf gute Dienstleistungen legt. Diverse ist unspezifisch",
+    "rating": "1"
+  },
+  {
+    "input": "Diverse ist unspezifisch und keine Gruppe zuzuordnen. Globus als Warenhaus bietet auch Dienstleistungen an",
+    "rating": "1"
+  },
+  {
+    "input": "PostAuto und Flixbus sind beide zwei Busunternehmen für Fernreisen. Das Wort \"idealer Dienstleister\" kann, muss aber nicht für beide gelten.",
+    "rating": "1"
+  },
+  {
+    "input": "Ein \"idealer Dienstleister\" kann in allen Branchen gefunden werden. PostAuto heute und FLixbus sind beides Busunternehmen und bieten Diesntleistungen an",
+    "rating": "1"
+  },
+  {
+    "input": "Die Schweiz und das PostAuto haben gemeinsam, dass das PostAuto ein Unternehmen aus der Schweiz ist.\"Ich unterwegs\" ist unabhängig von der Schweiz .",
+    "rating": "1"
+  },
+  {
+    "input": "\"Ich unterwegs\" ist international, wobei PostAuto und die Schweiz zu einem bestimmten Ort gehören",
+    "rating": "1"
+  },
+  {
+    "input": "\"Ich Zukunft\" könnte möglicherweise bei meinem Wunscharbeitgeber arbeiten. Die Post ist kein potentieller Arbeitgeber für mich.",
+    "rating": "1"
+  },
+  {
+    "input": "Die Post ist kein potentieller Arbeitgeber für mich und ist mir somit fern. \"Ich Zukunft\" hat möglicherweise einen Bezug zu meinem Wunscharbeitgeber",
+    "rating": "1"
+  },
+  {
+    "input": "Postfinance heute kann als ein idealer Dienstleister gesehen werden. \"Ich unterwegs\" hat nichts mit einer Dienstleistung einer Bank gesehen werden.",
+    "rating": "1"
+  },
+  {
+    "input": "\"Ich unterwegs\" ist ein ortsgebundener Prozess, wobei Postfinance als idealer Dienstleister für mich ortsunabhängig ist",
+    "rating": "1"
+  },
+  {
+    "input": "Online Banking und EMail bedienen sich beide dem Internet und sind digital. Die Post heute ist analog und nicht abhängig vom Internet",
+    "rating": "1"
+  },
+  {
+    "input": "Die Post ist analog und nicht digitalisiert. Online banking und EMail sind Folgen der Digitalisierung.",
+    "rating": "1"
+  },
+  {
+    "input": "PostFInance und UBS sind zwei Banken, die \"Digitale Welt\" ist ein sehr allgemeiner Begriff einer nicht ortsgebunden/physischen Welt",
+    "rating": "1"
+  },
+  {
+    "input": "Die Digitale Welt ist nicht ortsgebunden, immateriell und ein abstrakter Begriff, wobei Postfinance und UBS zwei Banken sind.",
+    "rating": "1"
+  },
+  {
+    "input": "Ich konnte nicht alle drei Punkte auswählen. Je größer das Unternehmen ist, desto schwieriger ist es, die Qualität der Dienstleistungen zu kontrollieren.",
+    "rating": "1"
+  },
+  {
+    "input": "Das eine geht nicht ohne das andere.",
+    "rating": "1"
+  },
+  {
+    "input": "glücklich",
+    "rating": "1"
+  },
+  {
+    "input": "gleich, ähnlich",
+    "rating": "1"
+  },
+  {
+    "input": "gute Frage",
+    "rating": "1"
+  },
+  {
+    "input": "?",
+    "rating": "1"
+  },
+  {
+    "input": "gut",
+    "rating": "1"
+  },
+  {
+    "input": "keine",
+    "rating": "1"
+  },
+  {
+    "input": "Aktualität",
+    "rating": "1"
+  },
+  {
+    "input": "Veraltet",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenvorteile",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenbeziehung",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Keine Reklamation möglich, Unmöglichkeit Schadenersatzansprüche geltend zu machen",
+    "rating": "1"
+  },
+  {
+    "input": "Starke staatliche Zugehörigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "wenig staatlich",
+    "rating": "1"
+  },
+  {
+    "input": "Gemeinschaftsgeist",
+    "rating": "1"
+  },
+  {
+    "input": "Wachsende Individualität",
+    "rating": "1"
+  },
+  {
+    "input": "Gemeinschaftsdienst",
+    "rating": "1"
+  },
+  {
+    "input": "Maximaler Gewinn",
+    "rating": "1"
+  },
+  {
+    "input": "Berücksichtigung des Kunden",
+    "rating": "1"
+  },
+  {
+    "input": "Taktlosigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "gemeinschaftliche Werte",
+    "rating": "1"
+  },
+  {
+    "input": "Unzuverlässigkeit, Mangel an Zuverlässigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Echte Rücksichtnahme auf andere",
+    "rating": "1"
+  },
+  {
+    "input": "fehlende Betrachtung",
+    "rating": "1"
+  },
+  {
+    "input": "Das Valorisieren der Mitarbeiter",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinn um jeden Preis",
+    "rating": "1"
+  },
+  {
+    "input": "Altruismus",
+    "rating": "1"
+  },
+  {
+    "input": "Individualismus",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinnorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Geldtransaktionen",
+    "rating": "1"
+  },
+  {
+    "input": "Paketversand",
+    "rating": "1"
+  },
+  {
+    "input": "Lebensstil",
+    "rating": "1"
+  },
+  {
+    "input": "Politik",
+    "rating": "1"
+  },
+  {
+    "input": "Geld",
+    "rating": "1"
+  },
+  {
+    "input": "Transporte",
+    "rating": "1"
+  },
+  {
+    "input": "Varietät",
+    "rating": "1"
+  },
+  {
+    "input": "Langsamkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Transporte",
+    "rating": "1"
+  },
+  {
+    "input": "Einschränkungen",
+    "rating": "1"
+  },
+  {
+    "input": "Bus",
+    "rating": "1"
+  },
+  {
+    "input": "Auto",
+    "rating": "1"
+  },
+  {
+    "input": "Arbeitsbedingungen",
+    "rating": "1"
+  },
+  {
+    "input": "Beruf",
+    "rating": "1"
+  },
+  {
+    "input": "Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "Zustellungen, Lieferungen",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Transaktionen",
+    "rating": "1"
+  },
+  {
+    "input": "Größer",
+    "rating": "1"
+  },
+  {
+    "input": "Verkehr,Transporte",
+    "rating": "1"
+  },
+  {
+    "input": "Telekommunikationen",
+    "rating": "1"
+  },
+  {
+    "input": "Personen",
+    "rating": "1"
+  },
+  {
+    "input": "Land",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistungen und Finanz.",
+    "rating": "1"
+  },
+  {
+    "input": "Verkehr, Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Wirksamkeit, Effizienz",
+    "rating": "1"
+  },
+  {
+    "input": "Gelegentliche Langsamkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Verkehr, Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Keine Erfahrung",
+    "rating": "1"
+  },
+  {
+    "input": "Staatsbürgerschaft / Beschäftigung in der Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "Keine Verwendung, kein Verbrauch",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentlicher Dienst",
+    "rating": "1"
+  },
+  {
+    "input": "Teuerung, hoher Preis",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "Konservatismus",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentlicher Dienst",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinn, Profit",
+    "rating": "1"
+  },
+  {
+    "input": "Kundenorientierung",
+    "rating": "1"
+  },
+  {
+    "input": "Produktqualität",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "Integrität",
+    "rating": "1"
+  },
+  {
+    "input": "Versteckte Korruption/Bestechung",
+    "rating": "1"
+  },
+  {
+    "input": "Abhängigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Unabhängigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentlicher Dienst",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinn, Profit",
+    "rating": "1"
+  },
+  {
+    "input": "sozial",
+    "rating": "1"
+  },
+  {
+    "input": "verbunden",
+    "rating": "1"
+  },
+  {
+    "input": "Realwirtschaft",
+    "rating": "1"
+  },
+  {
+    "input": "Finanz",
+    "rating": "1"
+  },
+  {
+    "input": "Realwirtschaft",
+    "rating": "1"
+  },
+  {
+    "input": "Die Post verkauft Swisscom-Produkte, deshalb müssen sie sich auf den Kundenempfang konzentrieren, strahlende Lächeln schenken, angenehme Worte sagen.",
+    "rating": "1"
+  },
+  {
+    "input": "Die CFF haben fast keine Konkurrenz, sie sind dominant, die einzigen in mehreren Regionen der Schweiz, also werden sie es bleiben, es sei denn man privatisiert bestimmte Linien.",
+    "rating": "1"
+  },
+  {
+    "input": "Ich muss sagen, dass es wenig konkrete Zukunftsvisionen gibt.",
+    "rating": "1"
+  },
+  {
+    "input": "Es ist mein Privatleben, also helfen Sie mir.",
+    "rating": "1"
+  },
+  {
+    "input": "Die Vision von PostAuto ist wie ein Landgesellschaft, die auf den neuesten Stand gebracht werden muss.",
+    "rating": "1"
+  },
+  {
+    "input": "Die Post bleibt ein Nachbarschaftsunternehmen, solange es existiert aber nicht PostAuto, die sieht man nicht überall.",
+    "rating": "1"
+  },
+  {
+    "input": "Die BCV ist ein Finanzdienstleistungsunternehmen, nicht die anderen Beispiele.",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Das Bild, das ich mir von CarPostal mache.",
+    "rating": "1"
+  },
+  {
+    "input": "Das Auto und die BCV sind nicht kompatibel.",
+    "rating": "1"
+  },
+  {
+    "input": "Mein Privatleben wird im Berufsleben nicht berücksichtigt.",
+    "rating": "1"
+  },
+  {
+    "input": "Keinen Zusammenhang zwischen ihnen",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche angebotene Produkte.",
+    "rating": "1"
+  },
+  {
+    "input": "Serviceart",
+    "rating": "1"
+  },
+  {
+    "input": "soziale Verbindung",
+    "rating": "1"
+  },
+  {
+    "input": "Land",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Personenbeförderung, Personentransport.",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen an Anbieter",
+    "rating": "1"
+  },
+  {
+    "input": "Angebotene Produkte",
+    "rating": "1"
+  },
+  {
+    "input": "Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "individual",
+    "rating": "1"
+  },
+  {
+    "input": "Nutzung des Dienstes",
+    "rating": "1"
+  },
+  {
+    "input": "Präsenz des Unternehmens",
+    "rating": "1"
+  },
+  {
+    "input": "Guter Arbeitsgeber",
+    "rating": "1"
+  },
+  {
+    "input": "Image, Erscheinungsbild, Bild",
+    "rating": "1"
+  },
+  {
+    "input": "Präsenz in der Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "Verwendung in der Schweiz",
+    "rating": "1"
+  },
+  {
+    "input": "Postzustellung",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzdienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "ähnliche Produkte",
+    "rating": "1"
+  },
+  {
+    "input": "Größer",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentliche Dienste",
+    "rating": "1"
+  },
+  {
+    "input": "Kein Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Aus Lausanne",
+    "rating": "1"
+  },
+  {
+    "input": "Ursprünge",
+    "rating": "1"
+  },
+  {
+    "input": "freiwillige/optionale/fakultative Dienstleistungen",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Konsum, Verbrauch",
+    "rating": "1"
+  },
+  {
+    "input": "Preis-Leistungs-Verhältnis",
+    "rating": "1"
+  },
+  {
+    "input": "Transportmittel",
+    "rating": "1"
+  },
+  {
+    "input": "private Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Schweizer Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Unabhängigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Stabilität",
+    "rating": "1"
+  },
+  {
+    "input": "Fehlende Herausforderung",
+    "rating": "1"
+  },
+  {
+    "input": "Berufsziel",
+    "rating": "1"
+  },
+  {
+    "input": "Kein Ehrgeiz, keine Ambition",
+    "rating": "1"
+  },
+  {
+    "input": "Einzelne Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "Keine Wahl",
+    "rating": "1"
+  },
+  {
+    "input": "Internet",
+    "rating": "1"
+  },
+  {
+    "input": "Wettbewerb",
+    "rating": "1"
+  },
+  {
+    "input": "Angebot des Bundes",
+    "rating": "1"
+  },
+  {
+    "input": "Private Wahl",
+    "rating": "1"
+  },
+  {
+    "input": "Unabhängig",
+    "rating": "1"
+  },
+  {
+    "input": "Allen gehören",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche Einheit",
+    "rating": "1"
+  },
+  {
+    "input": "Verkehrsbetrieb, Fahrdienst, Transportdienst",
+    "rating": "1"
+  },
+  {
+    "input": "Stellenangebot, Arbeitsplatzangebot",
+    "rating": "1"
+  },
+  {
+    "input": "Rückgewinnung eines Gutes, Vermögensrückgewinnung",
+    "rating": "1"
+  },
+  {
+    "input": "Verkehrsbetrieb, Fahrdienst, Transportdienst.",
+    "rating": "1"
+  },
+  {
+    "input": "Stellenangebot, Arbeitsplatzangebot.",
+    "rating": "1"
+  },
+  {
+    "input": "Nutzung des Dienstes",
+    "rating": "1"
+  },
+  {
+    "input": "Größe",
+    "rating": "1"
+  },
+  {
+    "input": "Ideal",
+    "rating": "1"
+  },
+  {
+    "input": "banal, gewöhnlich",
+    "rating": "1"
+  },
+  {
+    "input": "Optimale Unterstützung",
+    "rating": "1"
+  },
+  {
+    "input": "mobil",
+    "rating": "1"
+  },
+  {
+    "input": "Lieferung",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Bank",
+    "rating": "1"
+  },
+  {
+    "input": "Internet",
+    "rating": "1"
+  },
+  {
+    "input": "Privatunternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "staatliches Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Mut",
+    "rating": "1"
+  },
+  {
+    "input": "Kapitalismus",
+    "rating": "1"
+  },
+  {
+    "input": "privatisierte Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Präsenz im ganzen Land, Präsenz auf ganzem Staatsgebiet",
+    "rating": "1"
+  },
+  {
+    "input": "Vorteilhafter, günstiger (falls es um einen Preis geht)",
+    "rating": "1"
+  },
+  {
+    "input": "Gewinn, Profit",
+    "rating": "1"
+  },
+  {
+    "input": "gleiches Ziel, gleiche Mission",
+    "rating": "1"
+  },
+  {
+    "input": "Vorteilhafter, günstiger (falls es um einen Preis geht)",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistungen für globale Unternehmen",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Mimikry (Imitation)",
+    "rating": "1"
+  },
+  {
+    "input": "Gehen Sie diesen Weg schnell",
+    "rating": "1"
+  },
+  {
+    "input": "Zunehmend globaler Service",
+    "rating": "1"
+  },
+  {
+    "input": "Transport...",
+    "rating": "1"
+  },
+  {
+    "input": "kommt näher",
+    "rating": "1"
+  },
+  {
+    "input": "Bietet nicht alles",
+    "rating": "1"
+  },
+  {
+    "input": "Bieten mehr an",
+    "rating": "1"
+  },
+  {
+    "input": "Dediziertes oder flexibles Netzwerk",
+    "rating": "1"
+  },
+  {
+    "input": "ausschließlich transport",
+    "rating": "1"
+  },
+  {
+    "input": "Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "Globaler Anbieter",
+    "rating": "1"
+  },
+  {
+    "input": "Fehlende Öffnung",
+    "rating": "1"
+  },
+  {
+    "input": "Bieten Sie mehr oder alle",
+    "rating": "1"
+  },
+  {
+    "input": "Kein globaler Anbieter",
+    "rating": "1"
+  },
+  {
+    "input": "Transportdienst",
+    "rating": "1"
+  },
+  {
+    "input": "Telefon- und Fernsehkommunikation",
+    "rating": "1"
+  },
+  {
+    "input": "gleiche Empfindlichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "stark politisiert",
+    "rating": "1"
+  },
+  {
+    "input": "Mail-Zustellung",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Verbraucherzufriedenheit",
+    "rating": "1"
+  },
+  {
+    "input": "schlechtes Produkt",
+    "rating": "1"
+  },
+  {
+    "input": "Praxis",
+    "rating": "1"
+  },
+  {
+    "input": "liebe",
+    "rating": "1"
+  },
+  {
+    "input": "kleine Bewegung",
+    "rating": "1"
+  },
+  {
+    "input": "große Reise",
+    "rating": "1"
+  },
+  {
+    "input": "Teilzeitarbeit",
+    "rating": "1"
+  },
+  {
+    "input": "Öffentlicher Dienst",
+    "rating": "1"
+  },
+  {
+    "input": "Flexibilität",
+    "rating": "1"
+  },
+  {
+    "input": "Mangel an Einfühlungsvermögen",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "unflexibel",
+    "rating": "1"
+  },
+  {
+    "input": "Bankabteilung",
+    "rating": "1"
+  },
+  {
+    "input": "virtuell",
+    "rating": "1"
+  },
+  {
+    "input": "Näher am Staat",
+    "rating": "1"
+  },
+  {
+    "input": "Mehr privatisiert",
+    "rating": "1"
+  },
+  {
+    "input": "Schnellere Anpassung",
+    "rating": "1"
+  },
+  {
+    "input": "Langsam ändern",
+    "rating": "1"
+  },
+  {
+    "input": "Digitalisierung",
+    "rating": "1"
+  },
+  {
+    "input": "Nicht sehr digital",
+    "rating": "1"
+  },
+  {
+    "input": "Individueller Dienst",
+    "rating": "1"
+  },
+  {
+    "input": "Wenig individuelle Betreuung",
+    "rating": "1"
+  },
+  {
+    "input": "Privat",
+    "rating": "1"
+  },
+  {
+    "input": "Zustand",
+    "rating": "1"
+  },
+  {
+    "input": "Mangel an Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Mehr Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "Autonomie",
+    "rating": "1"
+  },
+  {
+    "input": "Nicht-autonome",
+    "rating": "1"
+  },
+  {
+    "input": "Angebot der Wahl",
+    "rating": "1"
+  },
+  {
+    "input": "Keine Wahl.",
+    "rating": "1"
+  },
+  {
+    "input": "Modernität",
+    "rating": "1"
+  },
+  {
+    "input": "Wenig Modernität",
+    "rating": "1"
+  },
+  {
+    "input": "Finanzinstitut",
+    "rating": "1"
+  },
+  {
+    "input": "Mehr Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "abstraktt",
+    "rating": "1"
+  },
+  {
+    "input": "greifbar",
+    "rating": "1"
+  },
+  {
+    "input": "intim",
+    "rating": "1"
+  },
+  {
+    "input": "multikulturell",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "allgemein",
+    "rating": "1"
+  },
+  {
+    "input": "Entscheidung",
+    "rating": "1"
+  },
+  {
+    "input": "notwendig",
+    "rating": "1"
+  },
+  {
+    "input": "zufriedenstellend",
+    "rating": "1"
+  },
+  {
+    "input": "Wahl",
+    "rating": "1"
+  },
+  {
+    "input": "geregelt",
+    "rating": "1"
+  },
+  {
+    "input": "behelfsmäßig",
+    "rating": "1"
+  },
+  {
+    "input": "Möglichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "Wunsch",
+    "rating": "1"
+  },
+  {
+    "input": "vergnügend",
+    "rating": "1"
+  },
+  {
+    "input": "nützlich",
+    "rating": "1"
+  },
+  {
+    "input": "Transport",
+    "rating": "1"
+  },
+  {
+    "input": "Geldwesen",
+    "rating": "1"
+  },
+  {
+    "input": "Geldwesen",
+    "rating": "1"
+  },
+  {
+    "input": "weitläufig",
+    "rating": "1"
+  },
+  {
+    "input": "konkret",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt ",
+    "rating": "1"
+  },
+  {
+    "input": "überschaubar",
+    "rating": "1"
+  },
+  {
+    "input": "unsicher",
+    "rating": "1"
+  },
+  {
+    "input": "bekannt",
+    "rating": "1"
+  },
+  {
+    "input": "unbekannt ",
+    "rating": "1"
+  },
+  {
+    "input": "Dasein",
+    "rating": "1"
+  },
+  {
+    "input": "Nichtvorhandensein",
+    "rating": "1"
+  },
+  {
+    "input": "echt",
+    "rating": "1"
+  },
+  {
+    "input": "Konkurrenz",
+    "rating": "1"
+  },
+  {
+    "input": "persönlich",
+    "rating": "1"
+  },
+  {
+    "input": "allgemein",
+    "rating": "1"
+  },
+  {
+    "input": "unabhängig",
+    "rating": "1"
+  },
+  {
+    "input": "abhängig",
+    "rating": "1"
+  },
+  {
+    "input": "entwicklungsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "bewegt",
+    "rating": "1"
+  },
+  {
+    "input": "transportierbar",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "aktuell",
+    "rating": "1"
+  },
+  {
+    "input": "zukunftsorientiert ",
+    "rating": "1"
+  },
+  {
+    "input": "konkret",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt ",
+    "rating": "1"
+  },
+  {
+    "input": "intim",
+    "rating": "1"
+  },
+  {
+    "input": "Lifestyle",
+    "rating": "1"
+  },
+  {
+    "input": "öffentlich",
+    "rating": "1"
+  },
+  {
+    "input": "bewegt",
+    "rating": "1"
+  },
+  {
+    "input": "Online",
+    "rating": "1"
+  },
+  {
+    "input": "greifbar",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich",
+    "rating": "1"
+  },
+  {
+    "input": "unterschiedlich ",
+    "rating": "1"
+  },
+  {
+    "input": "Vergnügen",
+    "rating": "1"
+  },
+  {
+    "input": "neutral",
+    "rating": "1"
+  },
+  {
+    "input": "Möglichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "zielstrebig ",
+    "rating": "1"
+  },
+  {
+    "input": "abgelenkt",
+    "rating": "1"
+  },
+  {
+    "input": "notwendig",
+    "rating": "1"
+  },
+  {
+    "input": "informativ",
+    "rating": "1"
+  },
+  {
+    "input": "überschaubar ",
+    "rating": "1"
+  },
+  {
+    "input": "Möglichkeit",
+    "rating": "1"
+  },
+  {
+    "input": "schweigsam",
+    "rating": "1"
+  },
+  {
+    "input": "hilfsbereit",
+    "rating": "1"
+  },
+  {
+    "input": "ichbezogen",
+    "rating": "1"
+  },
+  {
+    "input": "peinlich",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "entwicklungsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "altmodisch",
+    "rating": "1"
+  },
+  {
+    "input": "leistungsfähig",
+    "rating": "1"
+  },
+  {
+    "input": "greifbar",
+    "rating": "1"
+  },
+  {
+    "input": "Verkehrsmittel ",
+    "rating": "1"
+  },
+  {
+    "input": "ideologisch",
+    "rating": "1"
+  },
+  {
+    "input": "chaotisch",
+    "rating": "1"
+  },
+  {
+    "input": "standardmäßig",
+    "rating": "1"
+  },
+  {
+    "input": "zielstrebig ",
+    "rating": "1"
+  },
+  {
+    "input": "unbekannt ",
+    "rating": "1"
+  },
+  {
+    "input": "offen",
+    "rating": "1"
+  },
+  {
+    "input": "reglementiert",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "zahlungsbasiert",
+    "rating": "1"
+  },
+  {
+    "input": "Vorreiterrolle",
+    "rating": "1"
+  },
+  {
+    "input": "gesetzlich ",
+    "rating": "1"
+  },
+  {
+    "input": "finanzielle Vorteile",
+    "rating": "1"
+  },
+  {
+    "input": "Integration",
+    "rating": "1"
+  },
+  {
+    "input": "unterschiedlich ",
+    "rating": "1"
+  },
+  {
+    "input": "öffentlich",
+    "rating": "1"
+  },
+  {
+    "input": "privat",
+    "rating": "1"
+  },
+  {
+    "input": "beruhigend",
+    "rating": "1"
+  },
+  {
+    "input": "notwendig",
+    "rating": "1"
+  },
+  {
+    "input": "mobil ",
+    "rating": "1"
+  },
+  {
+    "input": "vorbildlich",
+    "rating": "1"
+  },
+  {
+    "input": "zugewandert",
+    "rating": "1"
+  },
+  {
+    "input": "notwendig",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt ",
+    "rating": "1"
+  },
+  {
+    "input": "finanzielle Vorteile",
+    "rating": "1"
+  },
+  {
+    "input": "unbeschwert",
+    "rating": "1"
+  },
+  {
+    "input": "zweckvoll",
+    "rating": "1"
+  },
+  {
+    "input": "nützlich",
+    "rating": "1"
+  },
+  {
+    "input": "notwendig",
+    "rating": "1"
+  },
+  {
+    "input": "konkret",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt ",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Konkurrenz",
+    "rating": "1"
+  },
+  {
+    "input": "individuell",
+    "rating": "1"
+  },
+  {
+    "input": "kollektiv",
+    "rating": "1"
+  },
+  {
+    "input": "traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "qualitativ",
+    "rating": "1"
+  },
+  {
+    "input": "praktisch",
+    "rating": "1"
+  },
+  {
+    "input": "erfahren",
+    "rating": "1"
+  },
+  {
+    "input": "Performance",
+    "rating": "1"
+  },
+  {
+    "input": "Kontinuität",
+    "rating": "1"
+  },
+  {
+    "input": "neugierig",
+    "rating": "1"
+  },
+  {
+    "input": "arbeitsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "persönliche Entwicklung",
+    "rating": "1"
+  },
+  {
+    "input": "leistungsfähig",
+    "rating": "1"
+  },
+  {
+    "input": "lernbereit",
+    "rating": "1"
+  },
+  {
+    "input": "schnell",
+    "rating": "1"
+  },
+  {
+    "input": "preiswert",
+    "rating": "1"
+  },
+  {
+    "input": "spezifisch",
+    "rating": "1"
+  },
+  {
+    "input": "vielseitig",
+    "rating": "1"
+  },
+  {
+    "input": "bewegt",
+    "rating": "1"
+  },
+  {
+    "input": "kommunikationsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "ehrlich",
+    "rating": "1"
+  },
+  {
+    "input": "verkaufsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "undefiniert",
+    "rating": "1"
+  },
+  {
+    "input": "mobil ",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "versorgt",
+    "rating": "1"
+  },
+  {
+    "input": "bewegt",
+    "rating": "1"
+  },
+  {
+    "input": "notwendig ",
+    "rating": "1"
+  },
+  {
+    "input": "mobil ",
+    "rating": "1"
+  },
+  {
+    "input": "konkret",
+    "rating": "1"
+  },
+  {
+    "input": "beauftragt",
+    "rating": "1"
+  },
+  {
+    "input": "ruhig",
+    "rating": "1"
+  },
+  {
+    "input": "entwicklungsorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "gewinnorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "Dienstleistung",
+    "rating": "1"
+  },
+  {
+    "input": "weitblickend",
+    "rating": "1"
+  },
+  {
+    "input": "direkt",
+    "rating": "1"
+  },
+  {
+    "input": "digital ",
+    "rating": "1"
+  },
+  {
+    "input": "gesetzlich ",
+    "rating": "1"
+  },
+  {
+    "input": "ersetzbar",
+    "rating": "1"
+  },
+  {
+    "input": "familienorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "vergangen",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "klassisch",
+    "rating": "1"
+  },
+  {
+    "input": "digital ",
+    "rating": "1"
+  },
+  {
+    "input": "physisch",
+    "rating": "1"
+  },
+  {
+    "input": "technisch",
+    "rating": "1"
+  },
+  {
+    "input": "immateriell",
+    "rating": "1"
+  },
+  {
+    "input": "sicher",
+    "rating": "1"
+  },
+  {
+    "input": "gewagt",
+    "rating": "1"
+  },
+  {
+    "input": "international",
+    "rating": "1"
+  },
+  {
+    "input": "örtlich",
+    "rating": "1"
+  },
+  {
+    "input": "seriös",
+    "rating": "1"
+  },
+  {
+    "input": "spaßig",
+    "rating": "1"
+  },
+  {
+    "input": "konkret",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt ",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "veränderbar",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "veraltet",
+    "rating": "1"
+  },
+  {
+    "input": "traditionell",
+    "rating": "1"
+  },
+  {
+    "input": "neugierig",
+    "rating": "1"
+  },
+  {
+    "input": "intransparent",
+    "rating": "1"
+  },
+  {
+    "input": "selfservice",
+    "rating": "1"
+  },
+  {
+    "input": "entspannt",
+    "rating": "1"
+  },
+  {
+    "input": "geführt",
+    "rating": "1"
+  },
+  {
+    "input": "einfach",
+    "rating": "1"
+  },
+  {
+    "input": "unzuverlässig",
+    "rating": "1"
+  },
+  {
+    "input": "altmodisch",
+    "rating": "1"
+  },
+  {
+    "input": "spontan",
+    "rating": "1"
+  },
+  {
+    "input": "flink",
+    "rating": "1"
+  },
+  {
+    "input": "gesetzlich",
+    "rating": "1"
+  },
+  {
+    "input": "selfservice",
+    "rating": "1"
+  },
+  {
+    "input": "spontan",
+    "rating": "1"
+  },
+  {
+    "input": "physisch",
+    "rating": "1"
+  },
+  {
+    "input": "digital",
+    "rating": "1"
+  },
+  {
+    "input": "verschlüsselt",
+    "rating": "1"
+  },
+  {
+    "input": "unabsehbar",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich, gute Dienstleistung, sympathisch",
+    "rating": "1"
+  },
+  {
+    "input": "interne Probleme in den Abläufen, Negativschlagzeilen",
+    "rating": "1"
+  },
+  {
+    "input": "kundenfreundlich, auf Wünsche der Kunden eingehen, unkompliziert sein (\"Kunde ist König\"). Macht mich glücklich",
+    "rating": "1"
+  },
+  {
+    "input": "bürokratischer Aufwand, gibt etwas eine Hemmschwelle",
+    "rating": "1"
+  },
+  {
+    "input": "klein, familiär, man fühlt sich willkommen und gut betreut",
+    "rating": "1"
+  },
+  {
+    "input": "kann weniger auf individuelle Wünsche eingehen (z.B. grosser Betrieb)",
+    "rating": "1"
+  },
+  {
+    "input": "liberal, offen, kompromissbereit",
+    "rating": "1"
+  },
+  {
+    "input": "zielorientiert, effizient, fokussiert",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel (z.B. Arbeitszeiten) und offen, tolerant, auf Wünsche eingehen. so kann man work-life balance verbessern",
+    "rating": "1"
+  },
+  {
+    "input": "eher auf sich selber fokussiert, auf eigene Bedürfnisse konzentriert, rücksichtslos",
+    "rating": "1"
+  },
+  {
+    "input": "profitorientiert, effizent, an sich denkend, Fokus auf eigene Ziele",
+    "rating": "1"
+  },
+  {
+    "input": "individuelle Bedürfnisse erkannt und umgesetzt, liest Wünsche von den Augen ab, und erfüllt sie rasch und unkompliziert",
+    "rating": "1"
+  },
+  {
+    "input": "muss wirtschaftlich sein, geht um Umsatz",
+    "rating": "1"
+  },
+  {
+    "input": "sicherheitstechnisch (Datenschutz) schwierig, grosses Risiko, gibt Unsicherheit und wenig Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "um Wohl der Menschen besorgt, z.B. via Daten/Wissensübermittlung, und Nachhaltigkeit",
+    "rating": "1"
+  },
+  {
+    "input": "erreiche nur wenige Menschen, lebe im Moment und denke weniger an Zukunft",
+    "rating": "1"
+  },
+  {
+    "input": "vielfältig und umfassend, einen grossen Themenbereich abdeckend",
+    "rating": "1"
+  },
+  {
+    "input": "spezialisiert für etwas, gewisse Einschränkung, limitiert im Interessensgebiet",
+    "rating": "1"
+  },
+  {
+    "input": "monopol Stellung, einzige Option, die vorhanden ist. Generell ein guter Eindruck (nicht negativ)",
+    "rating": "1"
+  },
+  {
+    "input": "Preisleistungsverhältnis stimmt nicht",
+    "rating": "1"
+  },
+  {
+    "input": "hat viele Möglichkeiten, Flexibilität in der Auswahl, muss nicht vorher schon genau wissen, was man braucht",
+    "rating": "1"
+  },
+  {
+    "input": "spezialisiert, genau definiert, meinem spezfischen Wunsch wird spezifisch gerecht nachgekommen",
+    "rating": "1"
+  },
+  {
+    "input": "mehr Möglichkeiten, individuelle Wünsche können berücksichtigt werden, jedoch schlechterer Preis",
+    "rating": "1"
+  },
+  {
+    "input": "guter Preis, spezifisches Angebot",
+    "rating": "1"
+  },
+  {
+    "input": "pünktlich und effizient, zielorientiert",
+    "rating": "1"
+  },
+  {
+    "input": "spassig (es fägt), Freiheitsgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "guter Lohn und gute Entwicklungsmöglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "umweltbewusst und innovativ",
+    "rating": "1"
+  },
+  {
+    "input": "uneingeschränkt, gibt Gefühl von Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "profitorientiert, gibt Gefühl, etwas ausgeliefert zu sein",
+    "rating": "1"
+  },
+  {
+    "input": "geregelt, strukturiert. Gibt Gefühl von Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "Chaos und mehr mit Risiko verbunden, gibt Gefühl von unbegrenzten Möglichkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "gemeinnützig, altruistisch",
+    "rating": "1"
+  },
+  {
+    "input": "wirtschaftlich orientiert, eher egoistische Gedanken",
+    "rating": "1"
+  },
+  {
+    "input": "ethische Richtlinien, fühle mich wahrgenommen und habe einen Einfluss",
+    "rating": "1"
+  },
+  {
+    "input": "innovativ, schnell entwickelnd",
+    "rating": "1"
+  },
+  {
+    "input": "seriös, bemühen sich um Kunden. gibt Vertrauen",
+    "rating": "1"
+  },
+  {
+    "input": "unmotitivertes Personal, sehr unangenehm und umständlich für mich als Kunde. Service hat generell nachgelassen",
+    "rating": "1"
+  },
+  {
+    "input": "sehr bemüht um Kunde, neue Aufmachung und neue ansprechende Ausrichtung auf den Kunden",
+    "rating": "1"
+  },
+  {
+    "input": "angenehmes, weites Interieur (viel Platz, kein Gedränge), man fühlt sich wohl, hat Luft",
+    "rating": "1"
+  },
+  {
+    "input": "kompetent und gut koordiniert, bringen einen überall hin",
+    "rating": "1"
+  },
+  {
+    "input": "grosse Transparenz im ganzen Betrieb",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig, pünktlich.  fühlt sich sicher",
+    "rating": "1"
+  },
+  {
+    "input": "unbeschränkt",
+    "rating": "1"
+  },
+  {
+    "input": "Respekt, guter Lohn, flexible Arbeitszeit. gibt Sicherheitsgefühl",
+    "rating": "1"
+  },
+  {
+    "input": "Entscheidungsfreiheit, kann machen, was ich will",
+    "rating": "1"
+  },
+  {
+    "input": "bedienungsfreundlich, einfach verständlich",
+    "rating": "1"
+  },
+  {
+    "input": "schwer fassbar",
+    "rating": "1"
+  },
+  {
+    "input": "sind direkt am Kunde, hat menschlichen Kontakt",
+    "rating": "1"
+  },
+  {
+    "input": "abstrakt, unpersönlich",
+    "rating": "1"
+  },
+  {
+    "input": "zuverlässig, kann darauf zählen, dass es klappt",
+    "rating": "1"
+  },
+  {
+    "input": "unpersönlich, kein Bezug",
+    "rating": "1"
+  },
+  {
+    "input": "menschlich, flexibel, z.B. kann situationsgemäss reagieren",
+    "rating": "1"
+  },
+  {
+    "input": "informativ, sachlich",
+    "rating": "1"
+  },
+  {
+    "input": "meistens verlässlich",
+    "rating": "1"
+  },
+  {
+    "input": "unauffällig, nicht sehr präsent",
+    "rating": "1"
+  },
+  {
+    "input": "kümmern sich gut um Kunden, z.B. Gesundheit. weckt Vertrauen in mir",
+    "rating": "1"
+  },
+  {
+    "input": "Angebot entsprechend der Nachfrage anbieten, flexibel den Umständen angepasst",
+    "rating": "1"
+  },
+  {
+    "input": "verlässlich, schnell, gibt Gefühl, dass man gut aufgehoben ist",
+    "rating": "1"
+  },
+  {
+    "input": "Nachhaltigkeit, z.B. basierend auf erneuerbaren Energien, vermindert Klimaerwärmung",
+    "rating": "1"
+  },
+  {
+    "input": "neutral, friedlich, provoziert keine Streitigkeiten",
+    "rating": "1"
+  },
+  {
+    "input": "intransparent. resultiert in Vertrauensverlust",
+    "rating": "1"
+  },
+  {
+    "input": "unterstützend, Hilfe leistend, wo nötig",
+    "rating": "1"
+  },
+  {
+    "input": "Unpersönlichkeit, man ist absolut ersetzbar. Gibt Gefühl, unwichtig zu sein",
+    "rating": "1"
+  },
+  {
+    "input": "effizient, konstante Qualität gewährleistet. ist vertrauenserweckend",
+    "rating": "1"
+  },
+  {
+    "input": "frei von Vorschriften, Verhaltensregeln. Gefühl von Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "klare Richtlinien, deshalb ist es vertrauenserweckend",
+    "rating": "1"
+  },
+  {
+    "input": "viele Möglichkeiten. sowohl ins Positive wie auch ins Negative. gibt ein mulmiges Gefühl",
+    "rating": "1"
+  },
+  {
+    "input": "spezifische Dienstleistung, klar definiert. man weiss dadurch, an was man ist",
+    "rating": "1"
+  },
+  {
+    "input": "flexibel und spontan. gibt viel Freiheit",
+    "rating": "1"
+  },
+  {
+    "input": "verantwortungsbewusst. weckt Gefühl von Sicherheit",
+    "rating": "1"
+  },
+  {
+    "input": "unsicher, man weiss nie genau, an was man ist. unvoraussagbar. könnte jederzeit alles passieren.",
+    "rating": "1"
+  },
+  {
+    "input": "Staatsdienst",
+    "rating": "1"
+  },
+  {
+    "input": "Monopol",
+    "rating": "1"
+  },
+  {
+    "input": "Öffnung",
+    "rating": "1"
+  },
+  {
+    "input": "alte Gesetze",
+    "rating": "1"
+  },
+  {
+    "input": "neue Technologie",
+    "rating": "1"
+  },
+  {
+    "input": "Mangel an Innovation",
+    "rating": "1"
+  },
+  {
+    "input": "Reaktivität",
+    "rating": "1"
+  },
+  {
+    "input": "Vereinfachung des Kaufs-/Verkaufsprozesses",
+    "rating": "1"
+  },
+  {
+    "input": "Ähnliche Dienste",
+    "rating": "1"
+  },
+  {
+    "input": "Innovation",
+    "rating": "1"
+  },
+  {
+    "input": "Mangel an öffentlichen Verkehrsmitteln, fehlender Fortschritt an öffentlichen Verkehrsmitteln.",
+    "rating": "1"
+  },
+  {
+    "input": "Förderung des öffentlichen Verkehrs.",
+    "rating": "1"
+  },
+  {
+    "input": "Gesundes Arbeitsumfeld",
+    "rating": "1"
+  },
+  {
+    "input": "Alterndes Arbeitsumfeld",
+    "rating": "1"
+  }
+]
