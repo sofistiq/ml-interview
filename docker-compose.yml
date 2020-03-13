@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  app:
+    image: ri_ml-interview
+    container_name: ri_ml-interview
+    build: .
