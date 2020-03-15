@@ -1,3 +1,5 @@
 tensorflow-cpu
 pymongo
 flask
+numpy
+keras
