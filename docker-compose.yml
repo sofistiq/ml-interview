@@ -11,3 +11,8 @@ services:
       - PYTHONUNBUFFERED=0
     ports:
       - 8003:5000
+
+networks:
+  default:
+    external:
+      name: ri_network

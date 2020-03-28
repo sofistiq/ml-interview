@@ -36,4 +36,4 @@ def update_construct(id):
 	return '', 200
 
 
-app.run(host='0.0.0.0', debug=getenv('PRODUCTION', False))
+app.run(host='0.0.0.0', debug=getenv('DEVELOPMENT', False))
