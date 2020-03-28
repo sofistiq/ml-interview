@@ -1,37 +1,13 @@
 version: '3.7'
 
 services:
-  ri_ml-interview_db:
-    image: mongo:4.0-xenial
-    container_name: ri_ml-interview_db
-    restart: always
-    volumes:
-      - db:/data/db
-    ports:
-      - 27017:27017
-
-  ri_ml-interview_express:
-    container_name: ri_ml-interview_express
-    image: mongo-express
-    restart: always
-    ports:
-      - 8080:8080
-    environment:
-      ME_CONFIG_MONGODB_SERVER: ri_ml-interview_db
-      VCAP_APP_PORT: 8080
-
   ri_ml-interview:
     image: ri_ml-interview
     container_name: ri_ml-interview
     build: .
     volumes:
       - .:/app
-    depends_on:
-      - ri_ml-interview_db
     environment:
       - PYTHONUNBUFFERED=0
     ports:
-      - 5000:5000
-
-volumes:
-  db:
+      - 8003:5000

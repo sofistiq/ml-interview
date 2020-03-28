@@ -1,12 +1,6 @@
-# 1. Step: Install dependencies
-FROM tensorflow/tensorflow:latest-gpu-py3 as Dependencies
-WORKDIR /app
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-
-# 2. Stage: Run
-FROM Dependencies as Run
+FROM python:3-alpine3.11
 WORKDIR /app
 COPY . .
+RUN pip install -r requirements.txt
 EXPOSE 5000
-CMD ["python", "src/main.py"]
+CMD ["python", "app.py"]

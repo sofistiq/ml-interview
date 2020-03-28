@@ -1,5 +1,4 @@
-# ml-interview
-Testimplementierung einer KI-basierten Lösung für das Interview-Modul von Repgrid
-
-# API
-Die API-Implementierung dient zur manuellen Bewertung von Konstrukten.
+# Pipfile to requirements.txt
+```sh
+pipenv run pip freeze > requirements.txt
+```
