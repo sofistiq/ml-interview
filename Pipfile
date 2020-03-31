@@ -11,6 +11,7 @@ flask-mongoengine = "*"
 python-dotenv = "*"
 flask-cors = "*"
 keras = "*"
+tensorflow-hub = "*"
 
 [requires]
 python_version = "3.8"

@@ -8,6 +8,9 @@ from keras.models import Sequential
 from keras.layers.core import Dense, Activation
 from keras.preprocessing.text import text_to_word_sequence, one_hot, hashing_trick, Tokenizer
 
+import tensorflow_hub as hub
+import tensorflow as tf
+import numpy as np
 import random
 import json
 
@@ -22,8 +25,6 @@ app.config['MONGODB_SETTINGS'] = {
 }
 
 initialize_db(app)
-
-construct_dictionary = dict()
 
 @app.route('/construct', methods=['GET'])
 def get_random_construct():
@@ -41,39 +42,42 @@ def update_construct(id):
 	Construct.objects.get(id=id).update(**body)
 	return '', 200
 
-# einfachster und schlechtester ansatz für bewertung von konstrukten: wörter mit wertung versehen
+# train using existing dataset
 @app.route('/train', methods=['GET'])
 def train():
 	constructs = Construct.objects(user_rating__ne=None)
-	for construct in constructs:
-		for word in text_to_word_sequence(construct['text']):
-			if word in construct_dictionary.keys():
-				construct_dictionary[word]['rating_count'] += 1
-				construct_dictionary[word]['rating_sum'] += construct_dictionary[word]['user_rating']
-			else:
-				construct_dictionary[word] = {
-					'user_rating': construct['user_rating'],
-					'rating_count': 1,
-					'rating_sum': construct['user_rating'],
-				}
-	for word in construct_dictionary:
-		construct_dictionary[word]['ai_rating'] = construct_dictionary[word]['rating_sum'] / construct_dictionary[word]['rating_count']
-	return Response(json.dumps(construct_dictionary), mimetype="application/json", status=200)
+	dictionary = np.array([d['text'] for d in constructs])
+	train_data = np.array(dictionary[len(dictionary) // 2])
+	validation_data = np.array(dictionary[:len(dictionary) // 2])
+	embedding = "https://tfhub.dev/google/tf2-preview/gnews-swivel-20dim/1"
+	hub_layer = hub.KerasLayer(embedding, input_shape=[], dtype=tf.string, trainable=True)
+	hub_layer(dictionary)
 
+	model = tf.keras.Sequential()
+	model.add(hub_layer)
+	model.add(tf.keras.layers.Dense(16, activation='relu'))
+	model.add(tf.keras.layers.Dense(1))
+
+	model.summary()
+
+	model.compile(
+		optimizer='adam',
+		loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
+		metrics=['accuracy']
+	)
+
+	history = model.fit(
+		train_data,
+		epochs=20,
+		validation_data=validation_data,
+		verbose=1,
+	)
+
+	return '', 200
+
+# rate a given construct
 @app.route('/rate', methods=['GET'])
 def rate_construct():
-	body = request.get_json()
-	word_arr = text_to_word_sequence(body['text'])
-	rating_sum = 0
-	rating_count = 0
-	for word in word_arr:
-		if word in construct_dictionary.keys():
-			rating_sum += construct_dictionary[word]['ai_rating']
-			rating_count += 1
-	if rating_count > 0:
-		body['rating'] = rating_sum / rating_count
-	else:
-		body['rating'] = 'unable to rate construct'
-	return Response(json.dumps(body), mimetype="application/json", status=200)
+	pass
 
 app.run(host='0.0.0.0', debug=getenv('DEVELOPMENT', False))
