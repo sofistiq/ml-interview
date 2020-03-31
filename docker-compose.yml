@@ -9,6 +9,7 @@ services:
       - .:/app
     environment:
       - PYTHONUNBUFFERED=0
+    tty: true
     ports:
       - 8003:5000
 

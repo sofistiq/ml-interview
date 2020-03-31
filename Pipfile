@@ -10,6 +10,7 @@ autopep8 = "*"
 flask-mongoengine = "*"
 python-dotenv = "*"
 flask-cors = "*"
+keras = "*"
 
 [requires]
 python_version = "3.8"
