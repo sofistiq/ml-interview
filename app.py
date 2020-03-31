@@ -41,6 +41,7 @@ def update_construct(id):
 	Construct.objects.get(id=id).update(**body)
 	return '', 200
 
+# einfachster und schlechtester ansatz für bewertung von konstrukten: wörter mit wertung versehen
 @app.route('/train', methods=['GET'])
 def train():
 	constructs = Construct.objects(user_rating__ne=None)
