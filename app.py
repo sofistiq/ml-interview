@@ -7,6 +7,7 @@ from database.models import Construct
 from keras.models import Sequential
 from keras.layers.core import Dense, Activation
 from keras.preprocessing.text import text_to_word_sequence, one_hot, hashing_trick, Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 import tensorflow_hub as hub
 import tensorflow as tf
@@ -46,12 +47,34 @@ def update_construct(id):
 @app.route('/train', methods=['GET'])
 def train():
 	constructs = Construct.objects(user_rating__ne=None)
-	dictionary = np.array([d['text'] for d in constructs])
-	train_data = np.array(dictionary[len(dictionary) // 2])
-	validation_data = np.array(dictionary[:len(dictionary) // 2])
+	train_data = [d['text'] for d in constructs]
+	test_data = [d['text'] for d in constructs]
+
+	num_words = 1000
+	oov_token = '<UNK>'
+	pad_type = 'post'
+	trunc_type = 'post'
+
+	tokenizer = Tokenizer(num_words=num_words, oov_token=oov_token)
+	tokenizer.fit_on_texts(train_data)
+
+	word_index = tokenizer.word_index
+
+	train_sequences = tokenizer.texts_to_sequences(train_data)
+	maxlen = max([len(x) for x in train_sequences])
+	train_padded = pad_sequences(
+		train_sequences, padding=pad_type, truncating=trunc_type, maxlen=maxlen)
+
+	test_sequences = tokenizer.texts_to_sequences(test_data)
+	test_padded = pad_sequences(
+		test_sequences, padding=pad_type, truncating=trunc_type, maxlen=maxlen)
+
+	# train_data = np.array(dictionary[len(dictionary) // 2])
+	# validation_data = np.array(dictionary[:len(dictionary) // 2])
+
 	embedding = "https://tfhub.dev/google/tf2-preview/gnews-swivel-20dim/1"
 	hub_layer = hub.KerasLayer(embedding, input_shape=[], dtype=tf.string, trainable=True)
-	hub_layer(dictionary)
+	hub_layer(train_sequences)
 
 	model = tf.keras.Sequential()
 	model.add(hub_layer)
@@ -67,9 +90,8 @@ def train():
 	)
 
 	history = model.fit(
-		train_data,
+		x=train_sequences,
 		epochs=20,
-		validation_data=validation_data,
 		verbose=1,
 	)
 
